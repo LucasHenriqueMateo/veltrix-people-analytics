@@ -1,51 +1,69 @@
 # Power Query Transformations — Veltrix Group People Analytics
 
-Three separate queries, one per source table. Applied in the Advanced Editor after importing each CSV.
+Source data arrives in Portuguese (`colaborador_id`, `genero`, `salario`...). Before loading into the model, Power Query translates column names and categorical values to English and applies the same cleaning logic as the `pandas` alternative documented in `python_etl_alternative.md`.
 
 ---
 
-## Query 1: Colaboradores
+## hr_Employees
 
-1. **Standardize gender** — raw values ranged from `"M"` to `"masculino"` to `"Masculino"`. Matched by uppercased prefix and mapped to `Masculino` / `Feminino` / `Não informado`.
+1. **Rename columns** to English (`colaborador_id` → `EmployeeID`, `genero` → `Gender`, `salario` → `Salary`, etc.)
 
-2. **Parse dates** — `data_nascimento` and `data_admissao` arrived in both ISO and BR formats. A custom function detects BR format when the first segment exceeds 12.
+2. **Standardize gender** — raw values ranged from `"M"` to `"masculino"` to `"Masculino"`. Matched by uppercased prefix and mapped to `Male` / `Female` / `Not Disclosed`.
 
-3. **Fix salary decimal separator** — ~5% of rows used a comma instead of a period; replaced before casting to numeric.
+3. **Parse dates** — `BirthDate` and `HireDate` arrived in both ISO and BR formats. A custom function detects BR format when the day segment exceeds 12.
 
-4. **Add age** — computed from `data_nascimento` against the current date, rounded down to whole years.
+4. **Fix salary decimal separator** — ~5% of rows used a comma instead of a period; replaced before casting to numeric.
 
-5. **Add tenure (years)** — same approach using `data_admissao`.
+5. **Add Age** — computed from `BirthDate` against the current date, rounded down to whole years.
 
-6. **Add age bracket** — buckets: up to 25, 26–35, 36–45, 46+.
+6. **Add TenureYears** — same approach using `HireDate`.
 
-7. **Add salary bracket** — buckets: up to R$5k, R$5k–10k, above R$10k.
+7. **Add AgeGroup** — buckets: Under 25, 26–35, 36–45, 46+.
 
----
+8. **Add SalaryBand** — buckets: Up to $5k, $5k–10k, Above $10k.
 
-## Query 2: Avaliações
-
-1. **Standardize result labels** — raw values had casing and spelling inconsistencies. Matched by lowercased substring (`"abaixo"`, `"dentro"`, `"acima"`, `"excep"`) and mapped to canonical labels.
-
-2. **Cast scores to numeric** — `nota_tecnica`, `nota_comportamental`, `nota_gestor`, `media_geral` — nulls preserved where the score wasn't given (mainly `nota_gestor`).
-
-3. **Split period into year and quarter** — `periodo` (e.g. `2024-Q1`) parsed into separate `ano` and `trimestre` columns for easier slicing.
+9. **Translate Status** — `Ativo` → `Active`, `Inativo` → `Inactive`.
 
 ---
 
-## Query 3: Movimentações
+## hr_PerformanceReviews
 
-1. **Remove duplicates** — ~12 rows duplicated; removed using the composite key `(colaborador_id, tipo, data)`, since `movimentacao_id` alone wasn't reliable.
+1. **Rename columns** to English (`avaliacao_id` → `ReviewID`, `nota_tecnica` → `TechnicalScore`, etc.)
 
-2. **Parse dates** — same BR/ISO detection logic as Query 1.
+2. **Standardize and translate Result** — raw values had casing and spelling inconsistencies. Matched by lowercased substring and mapped to `Below Expectations` / `Meets Expectations` / `Exceeds Expectations` / `Exceptional`.
 
-3. **Fix salary decimal separator** — applied to both `salario_anterior` and `salario_novo`.
+3. **Add ResultOrder** — integer sort key so visuals show results in logical order rather than alphabetical.
 
-4. **Add salary variation %** — `(salario_novo - salario_anterior) / salario_anterior`, null when there's no prior salary to compare against.
+4. **Cast scores to numeric** — nulls preserved where the score wasn't given (mainly `ManagerScore`).
 
-5. **Add year and month** — extracted from `data` for the time-series visuals.
+5. **Split Period into Year and Quarter** — `Period` (e.g. `2024-Q1`) parsed into separate columns for easier slicing.
+
+---
+
+## hr_JobMovements
+
+1. **Rename columns** to English (`movimentacao_id` → `MovementID`, `tipo` → `Type`, etc.)
+
+2. **Remove duplicates** — ~12 rows duplicated; removed using the composite key `(EmployeeID, Type, Date)`.
+
+3. **Translate Type** — `Admissão` → `Hire`, `Demissão` → `Termination`, `Promoção` → `Promotion`, `Transferência` → `Transfer`, `Aumento Salarial` → `Salary Increase`.
+
+4. **Parse dates** — same BR/ISO detection logic.
+
+5. **Fix salary decimal separator** — applied to both `PreviousSalary` and `NewSalary`.
+
+6. **Add SalaryVariationPct** — `(NewSalary - PreviousSalary) / PreviousSalary`, null when there's no prior salary to compare against.
+
+7. **Add Year and Month** — extracted from `Date` for the time-series visuals.
+
+---
+
+## dCalendar
+
+A standalone date dimension table, generated independently rather than derived from any fact table. This lets the model relate dates consistently across `hr_JobMovements` and any future fact table without each one needing its own date logic — the standard "star schema" pattern for time intelligence in Power BI.
 
 ---
 
 ## Note on the Python alternative
 
-`python_etl_alternative.md` contains a `pandas`-based script that performs the same cleaning, plus translates all column names and categorical values to English. It wasn't used to feed the actual Power BI model (which runs on Power Query M with Portuguese field names) — it's included as a reference for how the same ETL would look in a Python/pandas pipeline.
+`python_etl_alternative.md` documents the same logic in `pandas`. It was used as the reference implementation for naming and translation — the Power Query steps above mirror it column-for-column.

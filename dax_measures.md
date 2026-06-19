@@ -1,209 +1,110 @@
 # DAX Measures — Veltrix Group People Analytics
 
-All measures live in a dedicated table `[_Medidas_RH]`. Grouped by theme.
+All measures live in a dedicated table `[_Measures]`. Grouped by theme.
 
 ---
 
-## Headcount
+## Core KPIs
 
 ```dax
-Headcount Total =
-CALCULATE(COUNTROWS(Colaboradores), Colaboradores[status] = "Ativo")
-```
-
-```dax
-Headcount Inativo =
-CALCULATE(COUNTROWS(Colaboradores), Colaboradores[status] = "Inativo")
-```
-
-```dax
-% CLT =
-DIVIDE(
-    CALCULATE([Headcount Total], Colaboradores[regime] = "CLT"),
-    [Headcount Total], BLANK()
+Active Headcount =
+CALCULATE(
+    COUNTROWS(hr_Employees),
+    hr_Employees[Status] = "Active"
 )
 ```
 
 ```dax
-% PJ =
-DIVIDE(
-    CALCULATE([Headcount Total], Colaboradores[regime] = "PJ"),
-    [Headcount Total], BLANK()
+Total Hires =
+CALCULATE(
+    COUNTROWS(hr_JobMovements),
+    hr_JobMovements[Type] = "Hire"
 )
 ```
 
 ```dax
-% Feminino =
+Total Terminations =
+CALCULATE(
+    COUNTROWS(hr_JobMovements),
+    hr_JobMovements[Type] = "Termination"
+)
+```
+
+```dax
+Turnover Rate =
 DIVIDE(
-    CALCULATE([Headcount Total], Colaboradores[genero] = "Feminino"),
-    [Headcount Total], BLANK()
+    [Total Terminations],
+    [Active Headcount],
+    0
 )
 ```
 
 ---
 
-## Salary
+## Financial metrics
 
 ```dax
 -- Active employees only
-Salário Médio =
-AVERAGEX(
-    FILTER(Colaboradores, Colaboradores[status] = "Ativo"),
-    Colaboradores[salario]
-)
-```
-
-```dax
-Massa Salarial =
-SUMX(
-    FILTER(Colaboradores, Colaboradores[status] = "Ativo"),
-    Colaboradores[salario]
-)
-```
-
-```dax
-Salário Mediano =
-MEDIANX(
-    FILTER(Colaboradores, Colaboradores[status] = "Ativo"),
-    Colaboradores[salario]
-)
-```
-
----
-
-## Turnover
-
-```dax
-Total Demissões =
-CALCULATE(COUNTROWS(Movimentacoes), Movimentacoes[tipo] = "Demissão")
-```
-
-```dax
-Total Admissões =
-CALCULATE(COUNTROWS(Movimentacoes), Movimentacoes[tipo] = "Admissão")
-```
-
-```dax
--- Classic formula: terminations / average headcount (start + end / 2)
-Turnover % =
-DIVIDE(
-    [Total Demissões],
-    ([Headcount Total] + [Headcount Inativo]) / 2,
-    BLANK()
-)
-```
-
-```dax
-Pedido Colaborador % =
-DIVIDE(
-    CALCULATE(COUNTROWS(Movimentacoes),
-        Movimentacoes[tipo] = "Demissão",
-        Movimentacoes[motivo] = "Pedido do colaborador"
-    ),
-    [Total Demissões], BLANK()
-)
-```
-
----
-
-## Movements
-
-```dax
-Total Promoções =
-CALCULATE(COUNTROWS(Movimentacoes), Movimentacoes[tipo] = "Promoção")
-```
-
-```dax
-Total Transferências =
-CALCULATE(COUNTROWS(Movimentacoes), Movimentacoes[tipo] = "Transferência")
-```
-
-```dax
-Total Aumentos =
-CALCULATE(COUNTROWS(Movimentacoes), Movimentacoes[tipo] = "Aumento Salarial")
-```
-
-```dax
--- Average salary bump from promotions and raises combined
-Variação Salarial Média % =
-AVERAGEX(
-    FILTER(Movimentacoes,
-        Movimentacoes[tipo] IN {"Promoção","Aumento Salarial"}
-        && NOT(ISBLANK(Movimentacoes[variacao_salarial_pct]))
-    ),
-    Movimentacoes[variacao_salarial_pct]
-)
-```
-
----
-
-## Performance
-
-```dax
-Nota Média Geral =
-AVERAGEX(
-    FILTER(Avaliacoes, NOT(ISBLANK(Avaliacoes[media_geral]))),
-    Avaliacoes[media_geral]
-)
-```
-
-```dax
-Nota Média Técnica =
-AVERAGEX(FILTER(Avaliacoes, NOT(ISBLANK(Avaliacoes[nota_tecnica]))), Avaliacoes[nota_tecnica])
-```
-
-```dax
-Nota Média Comportamental =
-AVERAGEX(FILTER(Avaliacoes, NOT(ISBLANK(Avaliacoes[nota_comportamental]))), Avaliacoes[nota_comportamental])
-```
-
-```dax
-Total Avaliações =
-COUNTROWS(Avaliacoes)
-```
-
-```dax
-% Resultado Excepcional =
-DIVIDE(
-    CALCULATE([Total Avaliações], Avaliacoes[resultado] = "Excepcional"),
-    [Total Avaliações], BLANK()
-)
-```
-
-```dax
-% Abaixo do Esperado =
-DIVIDE(
-    CALCULATE([Total Avaliações], Avaliacoes[resultado] = "Abaixo do Esperado"),
-    [Total Avaliações], BLANK()
-)
-```
-
-```dax
--- Active employees with no review on record — coverage gap
-Colaboradores sem Avaliação =
+Total Payroll =
 CALCULATE(
-    COUNTROWS(Colaboradores),
-    Colaboradores[status] = "Ativo",
-    ISEMPTY(RELATEDTABLE(Avaliacoes))
+    SUM(hr_Employees[Salary]),
+    hr_Employees[Status] = "Active"
+)
+```
+
+```dax
+Average Salary =
+CALCULATE(
+    AVERAGE(hr_Employees[Salary]),
+    hr_Employees[Status] = "Active"
 )
 ```
 
 ---
 
-## Tenure
+## Performance metrics
 
 ```dax
-Tempo Médio de Empresa (anos) =
-AVERAGEX(
-    FILTER(Colaboradores, Colaboradores[status] = "Ativo"),
-    Colaboradores[tempo_empresa_anos]
+Avg Technical Score =
+AVERAGE(hr_PerformanceReviews[TechnicalScore])
+```
+
+```dax
+Avg Behavioral Score =
+AVERAGE(hr_PerformanceReviews[BehavioralScore])
+```
+
+```dax
+Avg Manager Score =
+AVERAGE(hr_PerformanceReviews[ManagerScore])
+```
+
+```dax
+Avg Overall Score =
+AVERAGE(hr_PerformanceReviews[OverallAverage])
+```
+
+---
+
+## Internal movements
+
+```dax
+Total Promotions =
+CALCULATE(
+    COUNTROWS(hr_JobMovements),
+    hr_JobMovements[Type] = "Promotion"
 )
 ```
 
 ```dax
-Tempo Médio até Demissão (anos) =
-AVERAGEX(
-    FILTER(Colaboradores, Colaboradores[status] = "Inativo"),
-    Colaboradores[tempo_empresa_anos]
+Total Transfers =
+CALCULATE(
+    COUNTROWS(hr_JobMovements),
+    hr_JobMovements[Type] = "Transfer"
 )
+```
+
+```dax
+Avg Salary Increase Pct =
+AVERAGE(hr_JobMovements[SalaryVariationPct])
 ```
