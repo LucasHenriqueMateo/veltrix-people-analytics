@@ -1,0 +1,398 @@
+﻿colaborador_id,nome,genero,data_nascimento,data_admissao,cargo,nivel,departamento,salario,regime,status,cidade,estado,escolaridade
+VLT-0418,Rodrigo Silva Fernandes,M,30/08/1986,23/07/2021,Junior Analyst,Junior,Sales,4310.24,CLT,Ativo,Curitiba,PR,Pós-Graduação
+VLT-0141,Thiago Pereira Rodrigues,masculino,1994-11-20,2023-03-29,Junior Analyst,Junior,Sales,6741.21,CLT,Ativo,Sorocaba,SP,Graduação
+VLT-0344,Marcos Almeida Santos,Masculino,2001-09-01,2020-07-23,Analyst,Mid,Sales,6659.23,CLT,Ativo,Porto Alegre,RS,MBA
+VLT-0055,Pedro Vieira Alves,Masculino,1975-04-14,2019-03-10,Analyst,Mid,Sales,8613.29,CLT,Ativo,Porto Alegre,RS,Pós-Graduação
+VLT-0053,Pedro Pereira Fernandes,M,1986-09-05,2020-03-26,Junior Analyst,Junior,Sales,6333.66,CLT,Ativo,Rio de Janeiro,RJ,Mestrado
+VLT-0491,Lucas Lopes Ribeiro,M,1976-09-03,2022-09-18,Analyst,Mid,Sales,6962.52,PJ,Ativo,Belo Horizonte,MG,Mestrado
+VLT-0599,Patricia Lopes Lima,F,1992-07-12,2025-03-01,Senior Analyst,Senior,Sales,6713.43,CLT,Inativo,Sorocaba,SP,Ensino Médio
+VLT-0501,André Carvalho Ferreira,M,1995-12-19,2023-09-24,Senior Analyst,Senior,Sales,3816.06,CLT,Ativo,Fortaleza,CE,Mestrado
+VLT-0387,Eduardo Fernandes Pereira,M,1975-06-05,2022-12-27,Senior Analyst,Senior,Sales,6413.57,CLT,Ativo,Porto Alegre,RS,Graduação
+VLT-0370,Natalia Almeida Martins,F,1988-10-07,2024-02-03,Specialist,Specialist,Sales,9583.62,PJ,Inativo,Belo Horizonte,MG,Mestrado
+VLT-0109,Fernanda Barbosa Martins,F,1997-09-20,2022-05-30,Specialist,Specialist,Sales,6330.0,PJ,Inativo,Porto Alegre,RS,Graduação
+VLT-0535,Leticia Carvalho Almeida,F,1996-06-07,2022-01-23,Specialist,Specialist,Sales,3685.74,CLT,Ativo,Recife,PE,Ensino Médio
+VLT-0487,Pedro Fernandes Almeida,M,1978-04-30,2018-12-28,Junior Analyst,Junior,Sales,6890.3,CLT,Ativo,Porto Alegre,RS,Mestrado
+VLT-0271,Juliana Barbosa Costa,F,30/12/1985,07/03/2023,Junior Analyst,Junior,Sales,3908.05,CLT,Ativo,Fortaleza,CE,Pós-Graduação
+VLT-0465,Matheus Santos Souza,M,1987-12-14,2020-10-24,Analyst,Mid,Sales,3467.13,CLT,Ativo,Belo Horizonte,MG,Ensino Médio
+VLT-0249,Natalia Pereira Santos,F,1990-12-10,2022-01-29,Analyst,Mid,Sales,4229.92,PJ,Ativo,Porto Alegre,RS,Pós-Graduação
+VLT-0433,Patricia Almeida Alves,F,1980-01-27,2021-08-21,Analyst,Mid,Sales,3631.81,PJ,Inativo,Sorocaba,SP,MBA
+VLT-0445,Roberta Rodrigues Oliveira,F,1982-03-22,2023-07-18,Analyst,Mid,Sales,9667.67,CLT,Ativo,Porto Alegre,RS,Graduação
+VLT-0512,Carlos Fernandes Santos,M,1990-06-03,2021-07-16,Senior Analyst,Senior,Sales,8814.83,CLT,Ativo,São Paulo,SP,MBA
+VLT-0160,Patricia Sousa Vieira,F,1997-07-27,2024-03-05,Senior Analyst,Senior,Sales,10032.76,CLT,Inativo,Campinas,SP,Mestrado
+VLT-0162,Fernanda Barbosa Alves,F,1975-07-10,2020-11-13,Senior Analyst,Senior,Sales,4128.16,PJ,Ativo,Fortaleza,CE,MBA
+VLT-0374,Lucas Santos Vieira,M,1980-06-01,2020-06-06,Specialist,Specialist,Sales,8534.42,CLT,Ativo,Curitiba,PR,Ensino Médio
+VLT-0438,Rafael Silva Barbosa,Masculino,1993-11-21,2022-12-01,Specialist,Specialist,Sales,10614.88,PJ,Inativo,São Paulo,SP,Mestrado
+VLT-0006,Leticia Ribeiro Ferreira,Feminino,1986-02-08,2022-06-18,Specialist,Specialist,Sales,4149.82,CLT,Inativo,Campinas,SP,MBA
+VLT-0468,Tatiana Pereira Gomes,F,2002-09-05,2022-12-14,Junior Analyst,Junior,Sales,4259.32,CLT,Ativo,Belo Horizonte,MG,Ensino Médio
+VLT-0516,Paulo Barbosa Gomes,M,1984-12-05,2019-06-03,Junior Analyst,Junior,Sales,3464.23,CLT,Ativo,São Paulo,SP,MBA
+VLT-0566,Camila Almeida Gomes,F,1998-12-30,2019-09-08,Analyst,Mid,Sales,3720.74,CLT,Ativo,Recife,PE,Graduação
+VLT-0434,André Fernandes Souza,M,1985-10-14,2022-02-26,Analyst,Mid,Sales,9334.41,CLT,Ativo,Belo Horizonte,MG,MBA
+VLT-0210,Rodrigo Carvalho Santos,Masculino,1990-06-12,2019-07-29,Analyst,Mid,Sales,3905.83,CLT,Inativo,Porto Alegre,RS,Ensino Médio
+VLT-0490,Lucas Costa Santos,M,1984-02-11,2022-03-23,Analyst,Mid,Sales,6266.97,CLT,Ativo,São Paulo,SP,Graduação
+VLT-0214,Vanessa Barbosa Silva,Feminino,1990-01-17,2024-02-12,Senior Analyst,Senior,Sales,6391.23,CLT,Ativo,Recife,PE,Pós-Graduação
+VLT-0135,Carlos Gomes Martins,M,1999-10-26,2024-05-11,Senior Analyst,Senior,Sales,8656.36,CLT,Ativo,Fortaleza,CE,Graduação
+VLT-0326,Felipe Sousa Souza,M,1986-06-14,2018-03-24,Senior Analyst,Senior,Sales,6076.17,CLT,Ativo,São Paulo,SP,Ensino Médio
+VLT-0195,Patricia Oliveira Pereira,F,26/04/2000,04/02/2023,Junior Analyst,Junior,Sales,3503.84,CLT,Ativo,Porto Alegre,RS,Ensino Médio
+VLT-0430,Tatiana Souza Rodrigues,F,1998-11-20,2021-01-31,Specialist,Specialist,Sales,5830.88,CLT,Ativo,Recife,PE,Pós-Graduação
+VLT-0211,Vinícius Sousa Costa,M,1993-06-14,2019-01-14,Specialist,Specialist,Sales,4013.9,CLT,Inativo,Brasília,DF,MBA
+VLT-0036,Eduardo Santos Lima,M,1986-03-08,2020-12-24,Junior Analyst,Junior,Sales,10335.76,PJ,Ativo,Porto Alegre,RS,MBA
+VLT-0048,Ricardo Ribeiro Carvalho,M,26/05/1994,26/12/2018,Junior Analyst,Junior,Sales,6640.47,CLT,Ativo,Porto Alegre,RS,MBA
+VLT-0379,Vanessa Gomes Martins,F,1986-07-02,2023-07-19,Analyst,Mid,Sales,6333.58,CLT,Ativo,Fortaleza,CE,Graduação
+VLT-0511,Marcos Costa Sousa,M,1990-03-31,2020-07-22,Analyst,Mid,Sales,11121.15,CLT,Ativo,Recife,PE,Graduação
+VLT-0057,Roberta Rodrigues Fernandes,F,1988-10-18,2022-09-08,Analyst,Mid,Sales,5884.17,PJ,Ativo,Brasília,DF,MBA
+VLT-0428,Leonardo Pereira Sousa,M,1989-11-10,2020-11-04,Analyst,Mid,Sales,6990.1,CLT,Ativo,Fortaleza,CE,Mestrado
+VLT-0190,Claudia Gomes Almeida,F,17/03/1998,06/09/2019,Senior Analyst,Senior,Sales,9873.95,CLT,Ativo,Recife,PE,Graduação
+VLT-0240,Fernando Oliveira Pereira,M,1981-08-18,2023-07-17,Senior Analyst,Senior,Sales,5932.14,CLT,Inativo,Rio de Janeiro,RJ,Ensino Médio
+VLT-0448,João Gomes Oliveira,M,1992-02-10,2021-02-13,Senior Analyst,Senior,Sales,5648.45,CLT,Ativo,Brasília,DF,MBA
+VLT-0068,João Ribeiro Gomes,Masculino,1980-12-30,2020-04-16,Specialist,Specialist,Sales,9150.18,CLT,Inativo,Sorocaba,SP,Graduação
+VLT-0001,Juliana Oliveira Fernandes,F,1978-11-09,2022-11-12,Specialist,Specialist,Sales,10282.13,CLT,Ativo,Fortaleza,CE,Mestrado
+VLT-0591,Mariana Souza Lima,F,1994-12-12,2022-12-19,Specialist,Specialist,Sales,6051.98,CLT,Inativo,Brasília,DF,Ensino Médio
+VLT-0350,Fernanda Rodrigues Santos,F,1982-04-14,2019-04-19,Junior Analyst,Junior,Sales,3700.54,CLT,Ativo,Curitiba,PR,Pós-Graduação
+VLT-0598,Fernanda Silva Carvalho,F,1990-06-12,2019-02-19,Junior Analyst,Junior,Sales,3423.7,CLT,Ativo,Curitiba,PR,Ensino Médio
+VLT-0504,André Alves Costa,M,1978-01-16,2022-02-20,Junior Analyst,Junior,Sales,"8969,54",CLT,Inativo,Campinas,SP,Pós-Graduação
+VLT-0229,Amanda Oliveira Vieira,F,1977-06-15,2022-03-02,Analyst,Mid,Sales,6922.88,CLT,Ativo,Curitiba,PR,MBA
+VLT-0330,Patricia Lima Almeida,F,1979-03-12,2019-01-08,Analyst,Mid,Sales,"5795,01",CLT,Ativo,Belo Horizonte,MG,Pós-Graduação
+VLT-0398,Rodrigo Alves Oliveira,M,1994-09-03,2024-09-03,Analyst,Mid,Sales,8244.01,CLT,Ativo,São Paulo,SP,Mestrado
+VLT-0376,Thiago Pereira Silva,M,1979-05-28,2021-02-28,Senior Analyst,Senior,Sales,11614.43,CLT,Ativo,Fortaleza,CE,Ensino Médio
+VLT-0416,Thiago Gomes Gomes,M,1988-03-30,2021-07-31,Senior Analyst,Senior,Sales,10662.76,CLT,Ativo,Recife,PE,Graduação
+VLT-0086,Marcos Sousa Ribeiro,M,1991-08-05,2023-11-07,Senior Analyst,Senior,Sales,9843.44,CLT,Ativo,Recife,PE,Graduação
+VLT-0613,Camila Fernandes Almeida,F,1998-03-20,2022-12-22,Specialist,Specialist,Sales,5707.66,PJ,Ativo,Recife,PE,Ensino Médio
+VLT-0003,Felipe Souza Fernandes,M,1989-02-02,2023-03-23,Specialist,Specialist,Sales,9339.83,CLT,Ativo,Curitiba,PR,Graduação
+VLT-0365,Patricia Barbosa Ferreira,F,1984-05-25,2019-07-10,Specialist,Specialist,Sales,9752.75,PJ,Ativo,Rio de Janeiro,RJ,MBA
+VLT-0312,Camila Rodrigues Rodrigues,F,2000-02-21,2023-07-27,Junior Analyst,Junior,Sales,3897.66,CLT,Ativo,São Paulo,SP,Graduação
+VLT-0631,Lucas Santos Silva,M,1985-01-02,2025-02-11,Junior Analyst,Junior,Sales,5893.0,PJ,Inativo,Curitiba,PR,MBA
+VLT-0581,Diego Silva Martins,M,2002-04-04,2018-11-20,Analyst,Mid,Sales,8471.84,CLT,Ativo,Campinas,SP,Pós-Graduação
+VLT-0578,Claudia Ferreira Alves,feminino,1992-02-07,2022-08-29,Analyst,Mid,Sales,3936.94,CLT,Ativo,Belo Horizonte,MG,MBA
+VLT-0625,Cristina Fernandes Fernandes,F,1977-07-01,2023-04-09,Analyst,Mid,Sales,6687.26,CLT,Ativo,Sorocaba,SP,Pós-Graduação
+VLT-0033,Roberta Alves Gomes,F,1995-02-28,2021-01-05,Analyst,Mid,Sales,3856.02,CLT,Inativo,Rio de Janeiro,RJ,Ensino Médio
+VLT-0457,Amanda Oliveira Souza,F,1996-06-09,2022-02-18,Senior Analyst,Senior,Sales,5813.08,CLT,Ativo,Recife,PE,Graduação
+VLT-0074,Marcos Martins Barbosa,M,1982-04-05,2021-11-13,Senior Analyst,Senior,Sales,3445.56,CLT,Ativo,São Paulo,SP,Ensino Médio
+VLT-0092,Cristina Oliveira Almeida,F,12/02/1997,01/04/2024,Senior Analyst,Senior,Sales,5827.95,CLT,Ativo,Sorocaba,SP,Graduação
+VLT-0136,André Sousa Sousa,M,1995-12-21,2024-11-15,Junior Analyst,Junior,Sales,3582.01,CLT,Ativo,São Paulo,SP,Mestrado
+VLT-0246,Natalia Rodrigues Oliveira,F,1975-08-27,2018-10-28,Specialist,Specialist,Sales,5569.19,CLT,Ativo,Campinas,SP,Mestrado
+VLT-0273,Gabriela Barbosa Santos,F,04/01/2000,13/06/2019,Specialist,Specialist,Sales,4296.34,CLT,Ativo,São Paulo,SP,Ensino Médio
+VLT-0341,Paulo Ribeiro Vieira,M,1991-11-27,2024-08-27,Junior Analyst,Junior,Sales,6438.13,PJ,Ativo,Belo Horizonte,MG,Pós-Graduação
+VLT-0009,Marcos Almeida Ferreira,Masculino,1999-01-26,2019-02-20,Junior Analyst,Junior,Sales,8441.43,PJ,Ativo,Campinas,SP,Mestrado
+VLT-0106,Larissa Alves Alves,F,1991-02-06,2022-07-07,Analyst,Mid,Sales,10346.86,CLT,Inativo,Rio de Janeiro,RJ,MBA
+VLT-0206,Tatiana Ferreira Ribeiro,F,1996-07-17,2021-05-27,Junior Analyst,Junior,Operations,7463.06,CLT,Ativo,Rio de Janeiro,RJ,MBA
+VLT-0530,Thiago Ribeiro Fernandes,M,12/10/1993,07/09/2018,Junior Analyst,Junior,Operations,"7152,63",CLT,Ativo,Sorocaba,SP,Pós-Graduação
+VLT-0078,Vinícius Souza Lopes,Masculino,2000-12-05,2019-10-13,Analyst,Mid,Operations,11484.16,CLT,Ativo,Rio de Janeiro,RJ,Ensino Médio
+VLT-0108,Patricia Almeida Vieira,F,19/12/1991,09/12/2018,Analyst,Mid,Operations,11580.2,PJ,Ativo,Porto Alegre,RS,MBA
+VLT-0650,Matheus Costa Sousa,M,1990-06-04,2019-06-28,Junior Analyst,Junior,Operations,6908.7,CLT,Ativo,Rio de Janeiro,RJ,MBA
+VLT-0181,Leticia Ferreira Carvalho,Feminino,1975-06-04,2019-07-01,Junior Analyst,Junior,Operations,11100.65,CLT,Ativo,Porto Alegre,RS,Graduação
+VLT-0070,Lucas Silva Martins,M,2002-06-25,2024-03-06,Senior Analyst,Senior,Operations,4737.33,CLT,Ativo,Belo Horizonte,MG,Mestrado
+VLT-0222,Camila Costa Santos,F,1993-06-20,2018-11-10,Senior Analyst,Senior,Operations,11966.44,CLT,Ativo,Belo Horizonte,MG,Pós-Graduação
+VLT-0540,Tatiana Sousa Barbosa,F,1982-12-02,2019-07-22,Senior Analyst,Senior,Operations,6506.83,CLT,Ativo,Porto Alegre,RS,Pós-Graduação
+VLT-0008,Pedro Vieira Costa,M,2000-02-02,2022-05-27,Specialist,Specialist,Operations,7511.25,CLT,Ativo,Recife,PE,Ensino Médio
+VLT-0015,Priscila Lopes Ribeiro,F,1979-08-11,2023-11-27,Specialist,Specialist,Operations,4619.32,PJ,Ativo,Rio de Janeiro,RJ,Graduação
+VLT-0201,Juliana Rodrigues Santos,F,1989-04-19,2024-04-15,Junior Analyst,Junior,Operations,6438.88,CLT,Ativo,Curitiba,PR,Graduação
+VLT-0189,André Rodrigues Almeida,M,1994-03-15,2019-05-19,Junior Analyst,Junior,Operations,6655.76,CLT,Ativo,Belo Horizonte,MG,Pós-Graduação
+VLT-0590,Camila Fernandes Ribeiro,feminino,1978-08-30,2024-05-06,Junior Analyst,Junior,Operations,10023.46,PJ,Ativo,Recife,PE,Pós-Graduação
+VLT-0496,Pedro Souza Sousa,M,1991-10-12,2022-08-08,Analyst,Mid,Operations,4399.44,PJ,Ativo,Porto Alegre,RS,Mestrado
+VLT-0138,Paulo Pereira Santos,M,1988-08-15,2022-09-10,Junior Analyst,Junior,Operations,7558.1,PJ,Inativo,Recife,PE,Ensino Médio
+VLT-0245,Amanda Carvalho Souza,F,1987-10-03,2022-05-21,Analyst,Mid,Operations,9491.41,CLT,Ativo,São Paulo,SP,Graduação
+VLT-0306,Leonardo Martins Ferreira,M,1979-06-09,2024-03-19,Junior Analyst,Junior,Operations,7615.82,CLT,Inativo,Porto Alegre,RS,Ensino Médio
+VLT-0184,Beatriz Oliveira Lima,F,1997-10-27,2018-07-16,Senior Analyst,Senior,Operations,"6163,79",CLT,Ativo,Porto Alegre,RS,Pós-Graduação
+VLT-0513,Simone Costa Souza,F,1990-12-26,2018-09-14,Senior Analyst,Senior,Operations,6668.04,CLT,Inativo,Brasília,DF,MBA
+VLT-0200,Mariana Alves Fernandes,F,1995-11-21,2019-01-26,Senior Analyst,Senior,Operations,12687.02,CLT,Ativo,São Paulo,SP,Pós-Graduação
+VLT-0607,Claudia Carvalho Almeida,feminino,1975-10-06,2020-01-12,Specialist,Specialist,Operations,10418.16,CLT,Ativo,Fortaleza,CE,Ensino Médio
+VLT-0081,Eduardo Vieira Pereira,M,1983-08-05,2020-12-31,Specialist,Specialist,Operations,7535.01,CLT,Ativo,Brasília,DF,Graduação
+VLT-0386,Amanda Ferreira Almeida,F,1990-08-04,2019-07-04,Specialist,Specialist,Operations,11916.71,PJ,Ativo,Belo Horizonte,MG,Ensino Médio
+VLT-0099,Claudia Barbosa Vieira,feminino,1996-03-07,2020-05-19,Junior Analyst,Junior,Operations,12197.49,CLT,Ativo,Belo Horizonte,MG,Ensino Médio
+VLT-0558,Natalia Lopes Fernandes,F,1996-06-19,2021-10-03,Junior Analyst,Junior,Operations,6846.94,CLT,Ativo,Belo Horizonte,MG,Ensino Médio
+VLT-0444,Renata Costa Almeida,F,1988-07-23,2020-06-11,Analyst,Mid,Operations,6903.68,CLT,Ativo,Brasília,DF,Mestrado
+VLT-0294,Eduardo Souza Souza,Masculino,1976-10-15,2023-07-29,Junior Analyst,Junior,Operations,11020.78,CLT,Ativo,Campinas,SP,Graduação
+VLT-0150,Felipe Gomes Rodrigues,M,1982-08-04,2025-06-23,Analyst,Mid,Operations,7417.86,PJ,Inativo,Belo Horizonte,MG,Ensino Médio
+VLT-0543,Vinícius Souza Rodrigues,Masculino,1983-10-04,2024-07-02,Analyst,Mid,Operations,3843.3,CLT,Ativo,Porto Alegre,RS,Pós-Graduação
+VLT-0315,Fernando Sousa Carvalho,M,1982-01-09,2025-01-04,Senior Analyst,Senior,Operations,7710.93,CLT,Ativo,São Paulo,SP,Ensino Médio
+VLT-0334,Roberta Ferreira Oliveira,F,2002-07-02,2019-12-05,Senior Analyst,Senior,Operations,7130.87,CLT,Inativo,Curitiba,PR,Graduação
+VLT-0423,Vanessa Fernandes Fernandes,feminino,1991-09-23,2024-05-10,Senior Analyst,Senior,Operations,7247.37,PJ,Ativo,São Paulo,SP,MBA
+VLT-0153,Ana Silva Martins,F,1982-07-23,2019-02-23,Specialist,Specialist,Operations,7664.2,CLT,Inativo,Brasília,DF,Graduação
+VLT-0595,Natalia Pereira Gomes,F,1995-12-07,2023-09-10,Specialist,Specialist,Operations,7209.31,CLT,Ativo,Porto Alegre,RS,Ensino Médio
+VLT-0548,Renata Carvalho Souza,F,1992-07-13,2018-08-14,Specialist,Specialist,Operations,7594.95,CLT,Ativo,São Paulo,SP,Mestrado
+VLT-0216,Cristina Barbosa Alves,F,1986-01-11,2023-02-05,Junior Analyst,Junior,Operations,9072.89,CLT,Ativo,Porto Alegre,RS,Mestrado
+VLT-0604,Simone Silva Souza,F,1988-02-10,2018-05-03,Junior Analyst,Junior,Operations,6849.18,PJ,Ativo,Recife,PE,Ensino Médio
+VLT-0032,Eduardo Gomes Barbosa,M,1979-06-19,2020-06-10,Analyst,Mid,Operations,6864.14,CLT,Ativo,Fortaleza,CE,MBA
+VLT-0644,Simone Ferreira Carvalho,F,05/10/1983,16/10/2020,Analyst,Mid,Operations,12235.13,CLT,Ativo,São Paulo,SP,MBA
+VLT-0047,Leonardo Souza Oliveira,M,1995-12-23,2018-05-11,Junior Analyst,Junior,Operations,4465.09,PJ,Ativo,Porto Alegre,RS,MBA
+VLT-0194,Simone Carvalho Lopes,F,1975-06-05,2020-08-09,Analyst,Mid,Operations,6873.33,PJ,Ativo,São Paulo,SP,Pós-Graduação
+VLT-0167,Priscila Santos Rodrigues,F,1991-01-03,2024-05-19,Senior Analyst,Senior,Operations,6154.65,PJ,Ativo,Sorocaba,SP,Ensino Médio
+VLT-0354,Fernanda Silva Silva,F,09/02/2002,22/10/2023,Senior Analyst,Senior,Operations,11126.07,CLT,Ativo,Belo Horizonte,MG,Mestrado
+VLT-0623,Tatiana Lima Carvalho,F,1981-11-29,2021-11-17,Senior Analyst,Senior,Operations,11856.75,CLT,Ativo,Fortaleza,CE,Graduação
+VLT-0579,Ana Gomes Santos,F,1979-03-28,2021-07-12,Specialist,Specialist,Operations,4773.35,PJ,Ativo,Curitiba,PR,Mestrado
+VLT-0635,Priscila Fernandes Silva,F,1999-03-22,2023-04-20,Specialist,Specialist,Operations,4272.8,PJ,Inativo,Sorocaba,SP,MBA
+VLT-0212,Mariana Santos Almeida,F,1998-01-04,2021-05-09,Specialist,Specialist,Operations,7122.8,CLT,Ativo,Campinas,SP,Pós-Graduação
+VLT-0261,Eduardo Vieira Martins,M,1986-07-19,2018-10-28,Junior Analyst,Junior,Operations,10110.34,CLT,Ativo,Recife,PE,Pós-Graduação
+VLT-0567,Eduardo Rodrigues Souza,M,1990-10-14,2018-05-22,Junior Analyst,Junior,Operations,6141.57,CLT,Ativo,Recife,PE,Mestrado
+VLT-0175,Roberta Vieira Fernandes,F,1996-06-03,2018-05-10,Analyst,Mid,Operations,7087.38,PJ,Ativo,Fortaleza,CE,MBA
+VLT-0502,Renata Ferreira Lopes,F,14/06/1991,13/04/2024,Junior Analyst,Junior,Operations,7474.7,CLT,Inativo,Rio de Janeiro,RJ,Ensino Médio
+VLT-0342,Roberta Barbosa Vieira,F,1994-07-12,2023-03-29,Junior Analyst,Junior,Operations,7497.45,CLT,Ativo,Belo Horizonte,MG,Ensino Médio
+VLT-0128,Patricia Sousa Pereira,F,2002-08-24,2024-11-06,Junior Analyst,Junior,Operations,6640.12,CLT,Inativo,Fortaleza,CE,MBA
+VLT-0446,Amanda Pereira Costa,Feminino,1997-08-30,2021-06-18,Senior Analyst,Senior,Operations,6596.96,CLT,Ativo,São Paulo,SP,Ensino Médio
+VLT-0426,Claudia Barbosa Gomes,F,1979-05-17,2023-03-24,Senior Analyst,Senior,Operations,7487.65,PJ,Ativo,Fortaleza,CE,MBA
+VLT-0060,Claudia Oliveira Barbosa,F,1996-03-19,2020-01-20,Senior Analyst,Senior,Operations,10621.12,CLT,Ativo,Fortaleza,CE,Pós-Graduação
+VLT-0460,Thiago Lima Souza,M,1995-03-23,2019-11-16,Junior Analyst,Junior,Operations,11510.05,CLT,Ativo,Fortaleza,CE,Graduação
+VLT-0471,Gustavo Sousa Silva,Masculino,1982-05-19,2020-02-28,Junior Analyst,Junior,Operations,7188.07,CLT,Inativo,Campinas,SP,MBA
+VLT-0608,André Fernandes Martins,M,1994-08-28,2019-04-22,Specialist,Specialist,Operations,10102.24,CLT,Ativo,Sorocaba,SP,Pós-Graduação
+VLT-0486,Renata Ribeiro Ferreira,F,1983-03-17,2023-03-13,Junior Analyst,Junior,Operations,7462.02,PJ,Ativo,Brasília,DF,Ensino Médio
+VLT-0183,Fernando Souza Lopes,M,1999-06-21,2023-08-13,Junior Analyst,Junior,Operations,4015.11,PJ,Ativo,Recife,PE,Ensino Médio
+VLT-0464,Carlos Silva Oliveira,M,1979-03-18,2021-10-09,Analyst,Mid,Operations,9599.74,PJ,Ativo,Brasília,DF,Graduação
+VLT-0219,Matheus Santos Martins,M,1976-02-27,2022-09-20,Analyst,Mid,Operations,9681.18,PJ,Ativo,Campinas,SP,MBA
+VLT-0021,Carlos Martins Costa,M,02/04/1985,06/03/2019,Junior Analyst,Junior,Product,9486.41,CLT,Ativo,Sorocaba,SP,Graduação
+VLT-0142,Larissa Gomes Lopes,F,1986-09-12,2024-09-07,Junior Analyst,Junior,Product,8429.6,CLT,Ativo,Porto Alegre,RS,MBA
+VLT-0117,Matheus Carvalho Santos,Masculino,11/02/1997,05/01/2019,Analyst,Mid,Product,9239.17,CLT,Inativo,Recife,PE,Pós-Graduação
+VLT-0484,Simone Costa Martins,F,1999-08-10,2021-12-09,Analyst,Mid,Product,5347.64,CLT,Ativo,Porto Alegre,RS,Pós-Graduação
+VLT-0094,Bruno Costa Souza,Masculino,1993-08-23,2025-01-05,Junior Analyst,Junior,Product,"9354,93",CLT,Ativo,Porto Alegre,RS,Mestrado
+VLT-0442,Vanessa Alves Gomes,F,1995-03-17,2020-08-09,Analyst,Mid,Product,14329.1,CLT,Inativo,Belo Horizonte,MG,MBA
+VLT-0238,Fernando Ferreira Rodrigues,M,13/02/1992,10/01/2018,Senior Analyst,Senior,Product,12240.61,CLT,Ativo,Campinas,SP,Mestrado
+VLT-0332,Tatiana Souza Ribeiro,F,1990-03-10,2019-10-24,Senior Analyst,Senior,Product,8171.15,CLT,Inativo,Porto Alegre,RS,Ensino Médio
+VLT-0276,Marcos Lopes Souza,M,1981-08-30,2024-11-25,Senior Analyst,Senior,Product,13204.68,CLT,Ativo,Porto Alegre,RS,MBA
+VLT-0123,Carlos Ribeiro Souza,M,1975-12-08,2020-07-12,Junior Analyst,Junior,Product,5242.95,CLT,Inativo,Recife,PE,Ensino Médio
+VLT-0018,Fernando Sousa Almeida,M,2002-06-23,2023-09-02,Junior Analyst,Junior,Product,16425.46,CLT,Ativo,Curitiba,PR,Mestrado
+VLT-0144,Fernanda Fernandes Ribeiro,F,1987-12-11,2019-06-01,Specialist,Specialist,Product,5614.33,CLT,Ativo,Porto Alegre,RS,MBA
+VLT-0483,Renata Alves Rodrigues,F,1993-04-19,2019-07-18,Junior Analyst,Junior,Product,"5208,03",CLT,Ativo,Fortaleza,CE,Pós-Graduação
+VLT-0649,Cristina Fernandes Lopes,F,1987-06-12,2021-03-09,Junior Analyst,Junior,Product,13699.21,CLT,Inativo,Sorocaba,SP,Graduação
+VLT-0321,Roberta Vieira Almeida,F,1980-09-01,2022-03-11,Analyst,Mid,Product,7912.67,CLT,Ativo,Rio de Janeiro,RJ,Mestrado
+VLT-0498,André Alves Costa,M,30/04/1997,25/05/2022,Junior Analyst,Junior,Product,8351.07,CLT,Ativo,Recife,PE,MBA
+VLT-0260,Thiago Carvalho Oliveira,M,1998-01-01,2024-07-16,Analyst,Mid,Product,16041.65,CLT,Ativo,Fortaleza,CE,Pós-Graduação
+VLT-0489,Simone Vieira Rodrigues,F,2000-10-11,2024-07-12,Analyst,Mid,Product,7741.52,CLT,Ativo,Brasília,DF,Ensino Médio
+VLT-0072,Eduardo Santos Lima,M,1986-11-25,2021-04-25,Senior Analyst,Senior,Product,9127.98,CLT,Inativo,Rio de Janeiro,RJ,Mestrado
+VLT-0351,Rodrigo Souza Souza,M,1994-07-12,2020-07-23,Senior Analyst,Senior,Product,9499.86,CLT,Ativo,Recife,PE,MBA
+VLT-0052,Fernanda Santos Lopes,F,1978-03-28,2020-12-20,Senior Analyst,Senior,Product,9526.93,CLT,Ativo,Belo Horizonte,MG,MBA
+VLT-0075,João Ribeiro Alves,M,1992-03-20,2019-03-15,Specialist,Specialist,Product,5808.13,CLT,Ativo,São Paulo,SP,Ensino Médio
+VLT-0207,Leticia Pereira Ferreira,F,1993-02-09,2024-03-24,Specialist,Specialist,Product,12376.73,CLT,Ativo,Rio de Janeiro,RJ,Mestrado
+VLT-0348,Simone Alves Santos,F,2000-01-02,2023-09-15,Specialist,Specialist,Product,8683.63,PJ,Ativo,Porto Alegre,RS,MBA
+VLT-0322,Pedro Ferreira Santos,M,1991-10-27,2023-10-21,Junior Analyst,Junior,Product,9089.7,CLT,Ativo,Fortaleza,CE,Mestrado
+VLT-0104,João Rodrigues Lima,M,1999-03-23,2024-03-17,Junior Analyst,Junior,Product,14923.91,CLT,Ativo,Rio de Janeiro,RJ,Ensino Médio
+VLT-0217,Amanda Carvalho Oliveira,F,1988-09-11,2025-06-01,Analyst,Mid,Product,8042.0,PJ,Ativo,Fortaleza,CE,Ensino Médio
+VLT-0447,Vanessa Rodrigues Souza,F,2002-09-25,2024-01-26,Junior Analyst,Junior,Product,11598.02,PJ,Ativo,Brasília,DF,Mestrado
+VLT-0022,Amanda Martins Rodrigues,F,1977-07-31,2020-01-21,Analyst,Mid,Product,13417.3,CLT,Ativo,São Paulo,SP,Pós-Graduação
+VLT-0616,Cristina Silva Ribeiro,F,1993-11-08,2023-02-09,Analyst,Mid,Product,12773.29,CLT,Inativo,Brasília,DF,Mestrado
+VLT-0638,Rafael Oliveira Ribeiro,M,14/04/2000,29/06/2022,Senior Analyst,Senior,Product,14920.66,CLT,Ativo,Fortaleza,CE,Mestrado
+VLT-0115,Thiago Silva Almeida,M,1998-08-15,2021-03-19,Senior Analyst,Senior,Product,12614.19,CLT,Ativo,Belo Horizonte,MG,Mestrado
+VLT-0373,Rafael Ribeiro Silva,M,1975-01-16,2022-06-15,Senior Analyst,Senior,Product,13294.8,CLT,Ativo,Campinas,SP,Ensino Médio
+VLT-0621,Simone Ribeiro Martins,F,1987-05-01,2022-09-04,Specialist,Specialist,Product,5215.24,CLT,Ativo,São Paulo,SP,MBA
+VLT-0568,Mariana Martins Vieira,F,1984-06-03,2018-12-06,Specialist,Specialist,Product,8388.95,CLT,Ativo,Rio de Janeiro,RJ,Graduação
+VLT-0642,Pedro Vieira Santos,M,1993-07-18,2024-07-31,Specialist,Specialist,Product,13112.56,CLT,Ativo,Recife,PE,Pós-Graduação
+VLT-0110,Eduardo Ribeiro Santos,Masculino,1996-09-07,2018-08-17,Junior Analyst,Junior,Product,13275.23,PJ,Ativo,São Paulo,SP,Pós-Graduação
+VLT-0331,Camila Souza Sousa,F,1984-11-21,2022-05-07,Junior Analyst,Junior,Product,5057.32,CLT,Ativo,Brasília,DF,Pós-Graduação
+VLT-0203,Felipe Souza Alves,Masculino,1997-04-10,2019-01-16,Analyst,Mid,Product,"5316,89",CLT,Ativo,Curitiba,PR,Mestrado
+VLT-0500,Mariana Alves Almeida,F,1975-06-17,2025-04-07,Analyst,Mid,Product,13506.54,CLT,Ativo,Recife,PE,Mestrado
+VLT-0218,Ana Santos Souza,F,26/03/2002,23/02/2023,Analyst,Mid,Product,9050.23,CLT,Ativo,Sorocaba,SP,Pós-Graduação
+VLT-0485,Rodrigo Alves Costa,M,1989-10-24,2021-04-09,Analyst,Mid,Product,5844.39,CLT,Ativo,Porto Alegre,RS,MBA
+VLT-0187,Vanessa Sousa Costa,feminino,1991-12-29,2021-12-25,Senior Analyst,Senior,Product,8797.39,CLT,Ativo,Fortaleza,CE,Pós-Graduação
+VLT-0395,Cristina Ferreira Souza,F,2001-02-19,2021-10-01,Senior Analyst,Senior,Product,5168.82,PJ,Inativo,Porto Alegre,RS,Graduação
+VLT-0518,Amanda Lima Alves,F,1981-09-29,2020-05-06,Senior Analyst,Senior,Product,8302.11,CLT,Ativo,Brasília,DF,Mestrado
+VLT-0080,Paulo Almeida Rodrigues,M,1990-08-19,2024-07-10,Specialist,Specialist,Product,15844.88,CLT,Ativo,Recife,PE,Pós-Graduação
+VLT-0495,Fernando Rodrigues Costa,M,1995-05-22,2022-06-07,Specialist,Specialist,Product,13852.06,CLT,Ativo,Fortaleza,CE,Graduação
+VLT-0011,Matheus Ribeiro Rodrigues,M,1979-01-31,2020-12-05,Specialist,Specialist,Product,14189.05,PJ,Inativo,Porto Alegre,RS,Mestrado
+VLT-0410,Rodrigo Lima Ferreira,M,1981-01-23,2019-06-11,Junior Analyst,Junior,Product,12421.74,CLT,Ativo,Recife,PE,Mestrado
+VLT-0158,Renata Gomes Costa,F,1995-01-25,2018-12-16,Junior Analyst,Junior,Product,4925.5,CLT,Ativo,Fortaleza,CE,MBA
+VLT-0378,Simone Ribeiro Almeida,F,1988-02-21,2022-09-11,Analyst,Mid,Product,11628.93,CLT,Ativo,Rio de Janeiro,RJ,MBA
+VLT-0345,Rafael Rodrigues Lima,M,1977-04-07,2020-03-19,Analyst,Mid,Product,13322.07,PJ,Ativo,Curitiba,PR,Pós-Graduação
+VLT-0455,João Almeida Vieira,M,1989-12-31,2018-05-28,Analyst,Mid,Product,13087.4,CLT,Ativo,Brasília,DF,Pós-Graduação
+VLT-0235,Larissa Silva Pereira,F,1980-08-30,2020-03-29,Junior Analyst,Junior,People & Culture,5185.63,PJ,Ativo,Recife,PE,Mestrado
+VLT-0258,Claudia Rodrigues Lima,F,1998-06-04,2019-07-09,Junior Analyst,Junior,People & Culture,5622.44,CLT,Inativo,São Paulo,SP,MBA
+VLT-0420,Fernanda Gomes Oliveira,F,1999-11-07,2024-01-19,Analyst,Mid,People & Culture,3858.74,CLT,Inativo,Fortaleza,CE,Graduação
+VLT-0179,Carlos Lima Carvalho,Masculino,1987-07-02,2021-05-07,Analyst,Mid,People & Culture,5496.46,PJ,Ativo,Brasília,DF,MBA
+VLT-0319,Ricardo Souza Costa,M,1982-08-26,2022-02-11,Junior Analyst,Junior,People & Culture,6367.79,PJ,Inativo,Sorocaba,SP,MBA
+VLT-0456,Claudia Sousa Ribeiro,F,1982-12-29,2023-06-18,Analyst,Mid,People & Culture,8048.34,CLT,Ativo,Rio de Janeiro,RJ,Ensino Médio
+VLT-0265,Leticia Vieira Santos,F,1976-04-21,2018-10-14,Senior Analyst,Senior,People & Culture,8425.74,CLT,Inativo,Campinas,SP,Ensino Médio
+VLT-0089,Renata Lopes Ribeiro,F,04/05/1983,27/05/2023,Senior Analyst,Senior,People & Culture,9003.65,CLT,Ativo,Curitiba,PR,Pós-Graduação
+VLT-0054,Paulo Sousa Sousa,M,1996-04-18,2020-08-04,Senior Analyst,Senior,People & Culture,9641.01,PJ,Inativo,São Paulo,SP,Graduação
+VLT-0547,Renata Rodrigues Silva,F,28/02/1975,19/06/2023,Specialist,Specialist,People & Culture,8037.88,CLT,Inativo,Campinas,SP,Mestrado
+VLT-0100,Vinícius Silva Lima,M,1981-06-30,2018-12-12,Specialist,Specialist,People & Culture,7953.56,CLT,Ativo,Recife,PE,Pós-Graduação
+VLT-0257,Rafael Almeida Lima,M,1976-01-12,2024-05-17,Specialist,Specialist,People & Culture,3305.32,CLT,Ativo,São Paulo,SP,Pós-Graduação
+VLT-0402,Larissa Carvalho Gomes,F,1982-07-11,2018-06-23,Junior Analyst,Junior,People & Culture,8810.2,PJ,Inativo,Porto Alegre,RS,Ensino Médio
+VLT-0191,Amanda Silva Fernandes,F,1999-06-07,2021-01-29,Junior Analyst,Junior,People & Culture,7681.24,PJ,Ativo,Curitiba,PR,Ensino Médio
+VLT-0481,Felipe Rodrigues Ribeiro,M,2000-01-07,2020-01-01,Analyst,Mid,People & Culture,10795.52,PJ,Ativo,Recife,PE,Graduação
+VLT-0474,Rodrigo Gomes Fernandes,M,1977-12-28,2021-01-16,Analyst,Mid,People & Culture,3573.49,CLT,Ativo,Curitiba,PR,Ensino Médio
+VLT-0227,Ricardo Souza Costa,M,1997-07-31,2018-08-31,Analyst,Mid,People & Culture,6109.58,PJ,Ativo,Brasília,DF,Ensino Médio
+VLT-0208,Bruno Lopes Vieira,masculino,1976-05-21,2022-10-03,Analyst,Mid,People & Culture,3299.87,CLT,Ativo,Curitiba,PR,Ensino Médio
+VLT-0262,André Almeida Costa,M,1992-12-27,2019-07-03,Senior Analyst,Senior,People & Culture,3999.59,CLT,Ativo,Porto Alegre,RS,MBA
+VLT-0154,Roberta Ribeiro Lima,F,1993-02-01,2018-07-27,Senior Analyst,Senior,People & Culture,3646.01,CLT,Ativo,Recife,PE,Pós-Graduação
+VLT-0056,Amanda Santos Barbosa,F,09/11/2002,02/07/2021,Senior Analyst,Senior,People & Culture,9822.04,CLT,Ativo,Recife,PE,Ensino Médio
+VLT-0523,Lucas Oliveira Alves,M,1981-11-10,2018-10-02,Specialist,Specialist,People & Culture,4017.29,CLT,Ativo,Belo Horizonte,MG,Pós-Graduação
+VLT-0421,Gustavo Barbosa Silva,M,1981-11-06,2022-03-26,Specialist,Specialist,People & Culture,6052.62,PJ,Ativo,Sorocaba,SP,Mestrado
+VLT-0640,Thiago Martins Ribeiro,M,1986-04-12,2025-06-20,Specialist,Specialist,People & Culture,4012.78,CLT,Ativo,Belo Horizonte,MG,Pós-Graduação
+VLT-0556,Claudia Ribeiro Pereira,F,1981-10-01,2023-04-06,Junior Analyst,Junior,People & Culture,8548.03,CLT,Ativo,Curitiba,PR,Pós-Graduação
+VLT-0593,Tatiana Almeida Sousa,F,1982-12-18,2021-11-30,Junior Analyst,Junior,People & Culture,6030.97,CLT,Ativo,Belo Horizonte,MG,Ensino Médio
+VLT-0039,Renata Fernandes Alves,F,1991-07-10,2020-11-24,Analyst,Mid,People & Culture,3636.39,CLT,Ativo,São Paulo,SP,MBA
+VLT-0091,Fernando Vieira Rodrigues,M,1993-01-20,2023-12-30,Analyst,Mid,People & Culture,9668.79,PJ,Inativo,Brasília,DF,Ensino Médio
+VLT-0253,Rodrigo Sousa Santos,Masculino,1996-05-30,2020-12-22,Analyst,Mid,People & Culture,8224.17,CLT,Inativo,Sorocaba,SP,MBA
+VLT-0335,Amanda Gomes Gomes,F,1980-08-30,2022-01-31,Analyst,Mid,People & Culture,9120.27,PJ,Ativo,Sorocaba,SP,Ensino Médio
+VLT-0528,João Barbosa Rodrigues,M,2001-11-13,2020-11-09,Senior Analyst,Senior,People & Culture,6128.4,CLT,Inativo,Curitiba,PR,Ensino Médio
+VLT-0592,Fernanda Martins Oliveira,F,1981-10-03,2018-02-16,Senior Analyst,Senior,People & Culture,5342.1,CLT,Ativo,Curitiba,PR,Graduação
+VLT-0309,Fernando Gomes Souza,M,1987-08-01,2021-07-06,Senior Analyst,Senior,People & Culture,6404.89,CLT,Ativo,Fortaleza,CE,Mestrado
+VLT-0043,Fernanda Gomes Sousa,F,1999-02-10,2021-05-20,Specialist,Specialist,People & Culture,"6146,68",CLT,Ativo,Porto Alegre,RS,Graduação
+VLT-0452,Paulo Carvalho Lopes,M,1988-07-12,2022-11-26,Specialist,Specialist,People & Culture,5637.65,CLT,Ativo,Recife,PE,Ensino Médio
+VLT-0012,Larissa Pereira Martins,F,1976-04-02,2021-02-18,Specialist,Specialist,People & Culture,"8306,68",PJ,Ativo,Brasília,DF,MBA
+VLT-0320,Ricardo Fernandes Carvalho,Masculino,1992-01-27,2019-01-12,Junior Analyst,Junior,People & Culture,8107.43,PJ,Ativo,São Paulo,SP,Ensino Médio
+VLT-0362,Claudia Silva Souza,F,1993-10-26,2024-07-11,Junior Analyst,Junior,People & Culture,5074.01,CLT,Ativo,Recife,PE,Ensino Médio
+VLT-0283,Matheus Ribeiro Souza,M,1994-06-11,2019-10-09,Analyst,Mid,People & Culture,6276.35,CLT,Ativo,Belo Horizonte,MG,Pós-Graduação
+VLT-0313,Ana Pereira Ribeiro,F,1996-05-14,2018-06-20,Analyst,Mid,People & Culture,10262.99,CLT,Ativo,São Paulo,SP,Mestrado
+VLT-0019,Cristina Lima Fernandes,F,1978-04-03,2020-09-12,Analyst,Mid,People & Culture,3256.42,PJ,Ativo,Curitiba,PR,Graduação
+VLT-0564,Felipe Alves Martins,M,1993-08-06,2024-02-26,Analyst,Mid,People & Culture,7720.25,PJ,Ativo,Fortaleza,CE,Mestrado
+VLT-0049,Vinícius Silva Carvalho,M,1977-10-12,2020-11-18,Senior Analyst,Senior,People & Culture,3180.5,CLT,Ativo,Brasília,DF,Pós-Graduação
+VLT-0122,Felipe Costa Martins,M,1989-05-20,2022-06-29,Senior Analyst,Senior,People & Culture,9330.36,CLT,Ativo,Fortaleza,CE,Pós-Graduação
+VLT-0131,Gabriela Costa Barbosa,F,25/06/1975,15/04/2018,Senior Analyst,Senior,People & Culture,5637.03,CLT,Ativo,Recife,PE,Mestrado
+VLT-0073,Marcos Ferreira Costa,M,1999-01-22,2023-04-08,Specialist,Specialist,People & Culture,5374.83,PJ,Ativo,São Paulo,SP,MBA
+VLT-0533,Claudia Santos Alves,F,17/10/1990,02/05/2019,Specialist,Specialist,People & Culture,3318.47,CLT,Inativo,Campinas,SP,Pós-Graduação
+VLT-0561,Gabriela Gomes Barbosa,F,1979-09-16,2021-02-21,Specialist,Specialist,People & Culture,10892.18,CLT,Ativo,São Paulo,SP,Graduação
+VLT-0256,Larissa Gomes Costa,F,20/09/1996,12/08/2020,Junior Analyst,Junior,People & Culture,"5990,77",CLT,Ativo,Recife,PE,Graduação
+VLT-0215,Leticia Carvalho Fernandes,F,1983-04-05,2022-05-16,Junior Analyst,Junior,People & Culture,5918.01,CLT,Inativo,Porto Alegre,RS,Pós-Graduação
+VLT-0346,Leticia Pereira Ribeiro,feminino,1989-10-09,2019-03-19,Analyst,Mid,People & Culture,"3345,53",PJ,Ativo,São Paulo,SP,Graduação
+VLT-0358,André Ribeiro Lima,M,1979-09-08,2020-01-26,Junior Analyst,Junior,People & Culture,6039.02,CLT,Ativo,Belo Horizonte,MG,Graduação
+VLT-0228,Gabriela Costa Sousa,F,2000-11-27,2024-01-09,Analyst,Mid,People & Culture,9283.0,CLT,Ativo,Sorocaba,SP,Mestrado
+VLT-0186,Eduardo Barbosa Martins,M,1976-07-05,2018-07-22,Junior Analyst,Junior,People & Culture,7742.31,CLT,Ativo,Recife,PE,Pós-Graduação
+VLT-0396,Vanessa Lopes Alves,Feminino,1985-01-21,2024-09-26,Senior Analyst,Senior,People & Culture,8526.94,CLT,Ativo,Sorocaba,SP,Mestrado
+VLT-0103,Rafael Vieira Carvalho,M,1985-07-06,2023-01-23,Senior Analyst,Senior,People & Culture,5566.68,CLT,Ativo,Curitiba,PR,Graduação
+VLT-0372,Eduardo Pereira Martins,M,1979-07-13,2020-10-09,Senior Analyst,Senior,People & Culture,7857.82,CLT,Inativo,Porto Alegre,RS,MBA
+VLT-0399,Leticia Alves Alves,F,1987-02-04,2019-06-22,Specialist,Specialist,People & Culture,3706.39,CLT,Ativo,São Paulo,SP,Ensino Médio
+VLT-0409,Mariana Lima Almeida,F,1989-11-26,2019-12-12,Specialist,Specialist,People & Culture,8492.56,PJ,Ativo,Belo Horizonte,MG,MBA
+VLT-0280,Larissa Costa Ribeiro,F,1976-02-23,2020-07-19,Specialist,Specialist,People & Culture,"3436,24",CLT,Ativo,Recife,PE,Graduação
+VLT-0538,Priscila Lima Pereira,Feminino,2001-02-09,2019-03-06,Junior Analyst,Junior,People & Culture,"9503,29",CLT,Ativo,São Paulo,SP,MBA
+VLT-0121,Thiago Fernandes Vieira,M,1982-05-16,2018-03-17,Junior Analyst,Junior,People & Culture,3651.24,CLT,Ativo,Belo Horizonte,MG,Mestrado
+VLT-0544,Juliana Sousa Barbosa,Feminino,1988-01-02,2023-01-24,Analyst,Mid,People & Culture,8027.05,CLT,Ativo,Campinas,SP,Pós-Graduação
+VLT-0479,Felipe Lima Santos,M,1994-01-28,2021-06-25,Analyst,Mid,People & Culture,9014.29,PJ,Ativo,Porto Alegre,RS,Pós-Graduação
+VLT-0269,Rodrigo Rodrigues Silva,M,1986-08-06,2023-08-16,Analyst,Mid,People & Culture,3704.72,CLT,Ativo,São Paulo,SP,Ensino Médio
+VLT-0197,Juliana Gomes Gomes,F,23/01/1984,24/06/2019,Analyst,Mid,People & Culture,10918.77,PJ,Ativo,Porto Alegre,RS,MBA
+VLT-0541,Leonardo Souza Alves,M,1994-11-24,2020-09-22,Senior Analyst,Senior,People & Culture,9852.2,CLT,Inativo,Brasília,DF,Pós-Graduação
+VLT-0615,Leticia Sousa Lopes,F,1976-10-29,2023-01-07,Senior Analyst,Senior,People & Culture,3259.94,CLT,Inativo,Rio de Janeiro,RJ,Pós-Graduação
+VLT-0134,Cristina Alves Sousa,F,1990-11-04,2024-05-23,Senior Analyst,Senior,People & Culture,3701.34,CLT,Ativo,São Paulo,SP,Ensino Médio
+VLT-0594,Renata Oliveira Lima,F,1984-01-19,2021-07-30,Specialist,Specialist,People & Culture,11162.03,PJ,Ativo,Campinas,SP,Mestrado
+VLT-0088,Beatriz Martins Almeida,F,1983-08-31,2023-04-06,Junior Analyst,Junior,People & Culture,3829.53,CLT,Ativo,Sorocaba,SP,MBA
+VLT-0185,Lucas Costa Carvalho,M,1981-10-13,2022-05-05,Junior Analyst,Junior,Operations,6623.99,PJ,Inativo,Sorocaba,SP,Ensino Médio
+VLT-0393,Juliana Costa Carvalho,F,1985-12-15,2020-11-22,Junior Analyst,Junior,Operations,4098.84,PJ,Ativo,Rio de Janeiro,RJ,Ensino Médio
+VLT-0114,Marcos Fernandes Lopes,M,1986-09-24,2020-09-04,Analyst,Mid,Operations,6082.59,CLT,Ativo,Curitiba,PR,Graduação
+VLT-0458,Thiago Pereira Lopes,M,1985-07-08,2023-09-16,Junior Analyst,Junior,Operations,3997.6,PJ,Ativo,Campinas,SP,Mestrado
+VLT-0505,Claudia Vieira Vieira,F,1981-09-12,2025-01-31,Analyst,Mid,Operations,7064.67,CLT,Ativo,Campinas,SP,MBA
+VLT-0605,Natalia Sousa Pereira,F,1979-08-11,2022-11-19,Analyst,Mid,Operations,6450.48,CLT,Ativo,São Paulo,SP,Pós-Graduação
+VLT-0329,Bruno Sousa Fernandes,M,1975-08-12,2018-08-11,Senior Analyst,Senior,Operations,6902.43,CLT,Ativo,Brasília,DF,Mestrado
+VLT-0506,Cristina Rodrigues Lima,F,1991-04-23,2018-01-16,Senior Analyst,Senior,Operations,6130.56,PJ,Ativo,Fortaleza,CE,Ensino Médio
+VLT-0031,Vinícius Lima Oliveira,M,1995-08-26,2023-07-17,Senior Analyst,Senior,Operations,9132.52,PJ,Ativo,Curitiba,PR,Mestrado
+VLT-0525,Roberta Silva Alves,F,1982-05-07,2024-05-03,Specialist,Specialist,Operations,6338.97,PJ,Ativo,Belo Horizonte,MG,Mestrado
+VLT-0087,Priscila Ribeiro Santos,F,1993-11-12,2025-01-18,Junior Analyst,Junior,Operations,5858.41,CLT,Ativo,Curitiba,PR,Pós-Graduação
+VLT-0069,Thiago Lima Martins,M,2001-09-04,2025-03-29,Specialist,Specialist,Operations,4420.88,CLT,Ativo,Fortaleza,CE,Graduação
+VLT-0440,Vanessa Oliveira Souza,F,1998-02-25,2020-08-18,Junior Analyst,Junior,Operations,7164.11,CLT,Ativo,Porto Alegre,RS,Mestrado
+VLT-0137,Amanda Ferreira Santos,F,1990-08-26,2020-02-25,Junior Analyst,Junior,Operations,4503.86,CLT,Ativo,São Paulo,SP,MBA
+VLT-0382,Fernanda Oliveira Pereira,F,1995-05-20,2025-02-06,Analyst,Mid,Operations,6354.55,CLT,Ativo,Rio de Janeiro,RJ,Mestrado
+VLT-0392,Rafael Silva Sousa,M,1980-05-12,2023-09-13,Analyst,Mid,Operations,5946.71,PJ,Ativo,Brasília,DF,MBA
+VLT-0177,Marcos Fernandes Ferreira,M,09/04/1982,05/12/2023,Analyst,Mid,Operations,5998.9,CLT,Ativo,Rio de Janeiro,RJ,MBA
+VLT-0647,André Sousa Martins,Masculino,1999-01-19,2023-09-23,Analyst,Mid,Operations,4171.18,CLT,Ativo,Curitiba,PR,MBA
+VLT-0314,André Alves Oliveira,M,1978-07-15,2022-10-02,Senior Analyst,Senior,Operations,12192.57,CLT,Ativo,Recife,PE,Graduação
+VLT-0024,Rafael Sousa Alves,M,25/10/1975,22/10/2020,Senior Analyst,Senior,Operations,9066.96,CLT,Ativo,Fortaleza,CE,Graduação
+VLT-0618,Felipe Martins Oliveira,M,1994-02-23,2024-10-31,Senior Analyst,Senior,Operations,12008.18,CLT,Ativo,Rio de Janeiro,RJ,Mestrado
+VLT-0090,Fernanda Ribeiro Rodrigues,F,1981-04-19,2023-12-14,Specialist,Specialist,Operations,4427.9,CLT,Ativo,São Paulo,SP,Graduação
+VLT-0519,Juliana Carvalho Souza,F,1988-03-18,2023-03-15,Specialist,Specialist,Operations,6326.64,CLT,Ativo,Porto Alegre,RS,Mestrado
+VLT-0555,Bruno Oliveira Barbosa,M,1989-03-20,2018-01-12,Specialist,Specialist,Operations,3900.18,CLT,Ativo,Brasília,DF,Mestrado
+VLT-0454,Roberta Oliveira Ribeiro,F,1997-02-14,2024-10-13,Junior Analyst,Junior,Operations,6271.07,PJ,Ativo,Sorocaba,SP,Pós-Graduação
+VLT-0432,Lucas Rodrigues Rodrigues,M,1982-10-29,2018-01-22,Junior Analyst,Junior,Operations,12492.53,CLT,Ativo,Porto Alegre,RS,Ensino Médio
+VLT-0221,Tatiana Ferreira Lima,F,1979-11-12,2020-12-01,Analyst,Mid,Operations,3920.9,CLT,Ativo,Recife,PE,Graduação
+VLT-0602,Thiago Oliveira Santos,M,1997-08-21,2019-05-15,Analyst,Mid,Operations,11556.07,CLT,Ativo,Belo Horizonte,MG,Ensino Médio
+VLT-0397,Patricia Fernandes Santos,F,1990-05-16,2021-05-18,Analyst,Mid,Operations,7045.12,CLT,Inativo,Rio de Janeiro,RJ,Ensino Médio
+VLT-0233,Diego Alves Ribeiro,M,1998-04-13,2022-11-24,Analyst,Mid,Operations,4508.87,PJ,Ativo,Sorocaba,SP,MBA
+VLT-0223,Bruno Fernandes Vieira,M,1978-02-18,2024-02-25,Senior Analyst,Senior,Operations,9503.53,PJ,Ativo,Belo Horizonte,MG,Ensino Médio
+VLT-0611,Camila Lopes Martins,F,1993-11-04,2025-01-08,Senior Analyst,Senior,Operations,7194.1,CLT,Ativo,Curitiba,PR,Pós-Graduação
+VLT-0170,Renata Gomes Gomes,F,1978-04-19,2020-02-19,Senior Analyst,Senior,Operations,10221.26,CLT,Ativo,Sorocaba,SP,Pós-Graduação
+VLT-0585,Gabriela Rodrigues Oliveira,F,1983-09-26,2021-08-10,Junior Analyst,Junior,Operations,7359.62,CLT,Ativo,São Paulo,SP,MBA
+VLT-0146,Camila Carvalho Alves,Feminino,1983-01-22,2024-05-01,Junior Analyst,Junior,Operations,5822.77,CLT,Ativo,Fortaleza,CE,MBA
+VLT-0385,Diego Rodrigues Sousa,M,24/01/1985,25/05/2019,Specialist,Specialist,Operations,4153.33,PJ,Ativo,São Paulo,SP,MBA
+VLT-0499,Ana Alves Ribeiro,F,1979-02-13,2020-04-21,Junior Analyst,Junior,Operations,6025.59,CLT,Inativo,Campinas,SP,Ensino Médio
+VLT-0627,Lucas Lopes Vieira,M,2000-12-29,2024-10-07,Junior Analyst,Junior,Operations,10491.69,CLT,Inativo,Fortaleza,CE,Graduação
+VLT-0453,Vanessa Ferreira Fernandes,F,1982-09-13,2022-12-05,Analyst,Mid,Operations,4084.01,CLT,Ativo,Fortaleza,CE,Pós-Graduação
+VLT-0529,Gabriela Fernandes Oliveira,feminino,1997-11-11,2024-08-21,Analyst,Mid,Operations,8838.93,CLT,Ativo,Fortaleza,CE,Graduação
+VLT-0267,Fernanda Lima Ferreira,Feminino,1980-11-28,2021-09-08,Analyst,Mid,Operations,3652.33,CLT,Ativo,Rio de Janeiro,RJ,Mestrado
+VLT-0646,Ana Martins Pereira,F,05/11/1998,26/07/2020,Analyst,Mid,Operations,3678.84,PJ,Ativo,Belo Horizonte,MG,Pós-Graduação
+VLT-0304,Fernando Ferreira Sousa,M,1985-01-15,2020-10-21,Senior Analyst,Senior,Operations,4506.4,PJ,Ativo,Sorocaba,SP,Mestrado
+VLT-0639,Renata Oliveira Oliveira,F,1980-02-22,2020-09-15,Senior Analyst,Senior,Operations,4015.64,CLT,Ativo,Brasília,DF,Pós-Graduação
+VLT-0277,João Ribeiro Silva,M,1985-03-23,2021-07-25,Senior Analyst,Senior,Operations,3637.52,CLT,Ativo,Porto Alegre,RS,Mestrado
+VLT-0095,Eduardo Fernandes Santos,M,1987-03-10,2023-09-06,Specialist,Specialist,Operations,6549.97,PJ,Ativo,Recife,PE,Pós-Graduação
+VLT-0582,Fernando Ferreira Rodrigues,M,1978-10-02,2023-09-06,Specialist,Specialist,Operations,9926.45,CLT,Ativo,Porto Alegre,RS,MBA
+VLT-0050,Amanda Costa Lima,F,1977-12-06,2018-04-10,Specialist,Specialist,Operations,10069.36,PJ,Ativo,Recife,PE,MBA
+VLT-0016,Paulo Vieira Costa,M,1990-11-14,2023-02-20,Junior Analyst,Junior,Operations,5969.72,CLT,Ativo,Fortaleza,CE,Mestrado
+VLT-0356,Gustavo Vieira Costa,masculino,1998-03-01,2023-07-24,Junior Analyst,Junior,Operations,6787.98,CLT,Ativo,Porto Alegre,RS,Mestrado
+VLT-0422,Ana Pereira Costa,F,1991-04-28,2022-11-22,Analyst,Mid,Operations,9808.21,CLT,Ativo,Recife,PE,Mestrado
+VLT-0038,Amanda Martins Pereira,F,1982-04-02,2018-11-04,Analyst,Mid,Operations,9586.48,CLT,Inativo,Recife,PE,MBA
+VLT-0065,André Martins Ferreira,masculino,1986-11-09,2019-04-17,Analyst,Mid,Operations,6362.95,PJ,Ativo,Porto Alegre,RS,MBA
+VLT-0360,Lucas Ferreira Ribeiro,M,1983-04-02,2024-02-14,Analyst,Mid,Operations,6259.97,PJ,Ativo,Sorocaba,SP,Mestrado
+VLT-0515,Larissa Sousa Silva,F,1997-10-24,2021-09-14,Senior Analyst,Senior,Operations,10469.81,PJ,Ativo,Campinas,SP,Mestrado
+VLT-0293,Felipe Fernandes Silva,M,04/12/1991,31/03/2018,Senior Analyst,Senior,Operations,6552.05,CLT,Ativo,Sorocaba,SP,Graduação
+VLT-0045,Claudia Alves Silva,F,1983-12-28,2021-06-30,Senior Analyst,Senior,Operations,10268.81,CLT,Ativo,Recife,PE,Pós-Graduação
+VLT-0549,Pedro Costa Martins,M,1996-09-15,2022-04-13,Specialist,Specialist,Operations,8676.24,CLT,Ativo,Curitiba,PR,Mestrado
+VLT-0143,Matheus Oliveira Fernandes,M,2000-06-18,2019-08-18,Junior Analyst,Junior,Operations,11157.49,CLT,Ativo,Campinas,SP,Graduação
+VLT-0296,Gabriela Martins Carvalho,F,1982-11-08,2019-11-10,Specialist,Specialist,Operations,7319.38,CLT,Ativo,Porto Alegre,RS,Ensino Médio
+VLT-0617,Paulo Pereira Lima,M,1985-11-25,2023-11-15,Junior Analyst,Junior,Operations,"10500,47",CLT,Ativo,Fortaleza,CE,Mestrado
+VLT-0113,Thiago Almeida Rodrigues,M,1988-04-20,2021-10-02,Junior Analyst,Junior,Operations,6009.1,CLT,Ativo,Campinas,SP,MBA
+VLT-0289,João Lopes Lopes,M,1997-06-08,2019-11-25,Junior Analyst,Junior,Operations,9772.39,PJ,Ativo,Belo Horizonte,MG,MBA
+VLT-0164,Camila Rodrigues Fernandes,F,1986-03-24,2024-01-15,Junior Analyst,Junior,Operations,10646.9,PJ,Ativo,Curitiba,PR,Ensino Médio
+VLT-0572,Fernanda Almeida Souza,F,1975-09-21,2020-07-31,Analyst,Mid,Operations,9944.41,CLT,Ativo,Sorocaba,SP,Ensino Médio
+VLT-0634,Leticia Sousa Ribeiro,F,1979-07-27,2020-12-14,Analyst,Mid,Operations,6892.54,CLT,Inativo,Belo Horizonte,MG,Graduação
+VLT-0242,Priscila Gomes Almeida,F,1976-04-09,2021-08-21,Senior Analyst,Senior,Operations,4387.69,PJ,Ativo,Sorocaba,SP,MBA
+VLT-0307,Renata Lopes Vieira,F,1976-04-14,2021-07-25,Senior Analyst,Senior,Operations,6635.97,CLT,Ativo,Curitiba,PR,Pós-Graduação
+VLT-0126,Felipe Almeida Fernandes,M,1989-12-19,2020-06-26,Senior Analyst,Senior,Operations,"7070,11",CLT,Ativo,Brasília,DF,Pós-Graduação
+VLT-0439,Leticia Costa Vieira,feminino,1975-10-23,2018-10-04,Specialist,Specialist,Operations,6219.89,PJ,Ativo,Recife,PE,Ensino Médio
+VLT-0470,Larissa Oliveira Barbosa,F,1982-03-10,2018-12-24,Junior Analyst,Junior,Technology,10685.5,CLT,Ativo,Belo Horizonte,MG,Mestrado
+VLT-0124,Pedro Lima Fernandes,M,1985-08-13,2018-06-11,Junior Analyst,Junior,Technology,"4186,91",CLT,Ativo,Sorocaba,SP,Mestrado
+VLT-0041,Mariana Silva Rodrigues,F,04/05/2001,30/06/2023,Analyst,Mid,Technology,12138.38,PJ,Ativo,Fortaleza,CE,MBA
+VLT-0237,Carlos Santos Almeida,M,1976-12-25,2024-03-28,Analyst,Mid,Technology,8155.23,CLT,Inativo,Curitiba,PR,MBA
+VLT-0198,Marcos Almeida Fernandes,M,1989-07-07,2018-05-25,Junior Analyst,Junior,Technology,4126.1,CLT,Ativo,Curitiba,PR,Graduação
+VLT-0248,Leonardo Lima Barbosa,M,2001-05-01,2021-07-01,Analyst,Mid,Technology,4150.67,CLT,Ativo,Sorocaba,SP,Ensino Médio
+VLT-0367,Vanessa Carvalho Martins,F,1994-05-05,2020-04-09,Senior Analyst,Senior,Technology,4091.96,CLT,Inativo,São Paulo,SP,Ensino Médio
+VLT-0182,Gabriela Martins Costa,F,1976-09-12,2019-07-07,Senior Analyst,Senior,Technology,7905.8,CLT,Ativo,Belo Horizonte,MG,Ensino Médio
+VLT-0204,Paulo Vieira Gomes,M,1981-10-29,2025-05-13,Senior Analyst,Senior,Technology,12331.86,CLT,Ativo,Porto Alegre,RS,Graduação
+VLT-0027,Roberta Costa Pereira,F,1978-10-06,2023-04-29,Specialist,Specialist,Technology,6809.32,CLT,Ativo,Rio de Janeiro,RJ,Ensino Médio
+VLT-0165,Matheus Lopes Santos,M,1992-08-10,2023-05-03,Specialist,Specialist,Technology,4970.59,CLT,Ativo,Recife,PE,Mestrado
+VLT-0524,Rafael Costa Santos,masculino,1983-12-02,2022-03-24,Specialist,Specialist,Technology,10060.42,CLT,Ativo,Campinas,SP,Ensino Médio
+VLT-0492,Camila Martins Barbosa,Feminino,1982-04-19,2024-05-03,Junior Analyst,Junior,Technology,11178.52,CLT,Ativo,Sorocaba,SP,Mestrado
+VLT-0389,Marcos Costa Lopes,masculino,1994-11-18,2024-12-31,Junior Analyst,Junior,Technology,7718.92,CLT,Ativo,Fortaleza,CE,Graduação
+VLT-0098,Mariana Ferreira Carvalho,F,1977-06-13,2023-08-01,Analyst,Mid,Technology,4687.12,PJ,Ativo,Campinas,SP,MBA
+VLT-0462,Matheus Ribeiro Souza,M,1995-01-04,2021-09-03,Analyst,Mid,Technology,4622.11,CLT,Ativo,Campinas,SP,Ensino Médio
+VLT-0297,Juliana Almeida Fernandes,F,1992-10-04,2023-09-26,Analyst,Mid,Technology,6521.42,CLT,Inativo,Fortaleza,CE,MBA
+VLT-0284,Vanessa Fernandes Sousa,F,12/05/1982,21/01/2020,Analyst,Mid,Technology,10740.59,PJ,Ativo,Campinas,SP,Pós-Graduação
+VLT-0145,Felipe Ribeiro Carvalho,M,1979-05-20,2020-01-15,Senior Analyst,Senior,Technology,8004.09,CLT,Ativo,Brasília,DF,Ensino Médio
+VLT-0522,Claudia Rodrigues Silva,F,1981-07-01,2024-12-07,Senior Analyst,Senior,Technology,6626.09,CLT,Ativo,Rio de Janeiro,RJ,Graduação
+VLT-0097,Priscila Oliveira Alves,F,1976-08-28,2022-09-23,Senior Analyst,Senior,Technology,10189.54,CLT,Inativo,São Paulo,SP,Graduação
+VLT-0209,Paulo Barbosa Sousa,M,1984-08-21,2024-12-07,Specialist,Specialist,Technology,4429.46,CLT,Ativo,Curitiba,PR,MBA
+VLT-0606,Camila Silva Vieira,F,16/09/1978,26/12/2023,Specialist,Specialist,Technology,11350.71,CLT,Ativo,Recife,PE,Ensino Médio
+VLT-0620,Rafael Pereira Silva,M,1986-08-10,2022-06-28,Specialist,Specialist,Technology,10821.32,CLT,Ativo,São Paulo,SP,Pós-Graduação
+VLT-0119,Vinícius Almeida Sousa,M,1978-12-22,2020-07-05,Junior Analyst,Junior,Technology,11763.27,CLT,Ativo,Curitiba,PR,Ensino Médio
+VLT-0295,Bruno Ferreira Souza,masculino,1995-10-14,2019-10-26,Junior Analyst,Junior,Technology,7729.99,CLT,Ativo,Porto Alegre,RS,Graduação
+VLT-0565,Simone Barbosa Ferreira,F,1980-11-29,2023-05-22,Junior Analyst,Junior,Technology,5169.59,CLT,Ativo,Curitiba,PR,Ensino Médio
+VLT-0364,Mariana Vieira Costa,F,1986-09-03,2025-06-06,Junior Analyst,Junior,Technology,6663.81,CLT,Ativo,Fortaleza,CE,MBA
+VLT-0268,Rodrigo Martins Gomes,M,1977-12-11,2024-07-29,Analyst,Mid,Technology,6609.88,PJ,Ativo,Recife,PE,Graduação
+VLT-0151,Vanessa Alves Santos,Feminino,1980-01-26,2019-10-23,Analyst,Mid,Technology,6679.07,CLT,Ativo,Porto Alegre,RS,Mestrado
+VLT-0557,Roberta Martins Ferreira,F,1976-09-01,2021-06-13,Senior Analyst,Senior,Technology,"10679,27",PJ,Ativo,Porto Alegre,RS,Ensino Médio
+VLT-0061,Marcos Santos Fernandes,M,1988-09-26,2025-04-12,Senior Analyst,Senior,Technology,4724.46,CLT,Ativo,Belo Horizonte,MG,Pós-Graduação
+VLT-0469,Larissa Sousa Lima,F,1999-11-14,2022-09-21,Senior Analyst,Senior,Technology,11266.46,CLT,Ativo,Curitiba,PR,Ensino Médio
+VLT-0017,Carlos Almeida Ferreira,M,1999-12-18,2018-09-10,Junior Analyst,Junior,Technology,4582.68,CLT,Ativo,Fortaleza,CE,Ensino Médio
+VLT-0044,Ana Carvalho Gomes,F,1978-08-21,2020-11-19,Specialist,Specialist,Technology,5045.45,CLT,Ativo,Porto Alegre,RS,Ensino Médio
+VLT-0381,Camila Lima Sousa,F,1999-01-20,2023-07-29,Specialist,Specialist,Technology,11875.01,CLT,Inativo,Rio de Janeiro,RJ,Ensino Médio
+VLT-0251,Felipe Pereira Gomes,M,1997-01-28,2019-01-19,Junior Analyst,Junior,Technology,6688.52,PJ,Ativo,Sorocaba,SP,MBA
+VLT-0166,Rafael Rodrigues Vieira,M,2000-11-19,2023-04-03,Junior Analyst,Junior,Technology,4456.11,CLT,Ativo,São Paulo,SP,MBA
+VLT-0071,Mariana Oliveira Gomes,F,1995-11-14,2018-11-26,Analyst,Mid,Technology,9737.14,PJ,Ativo,Rio de Janeiro,RJ,Pós-Graduação
+VLT-0610,Cristina Pereira Gomes,F,1997-12-17,2019-03-25,Analyst,Mid,Technology,11517.52,CLT,Inativo,Belo Horizonte,MG,Pós-Graduação
+VLT-0412,Fernando Vieira Santos,M,2001-04-10,2022-10-27,Analyst,Mid,Technology,12057.52,PJ,Ativo,Fortaleza,CE,Pós-Graduação
+VLT-0577,Mariana Oliveira Rodrigues,F,1989-06-10,2024-04-04,Analyst,Mid,Technology,7866.45,CLT,Ativo,Belo Horizonte,MG,Ensino Médio
+VLT-0429,Claudia Vieira Lima,F,1991-06-22,2018-07-22,Senior Analyst,Senior,Technology,8179.44,CLT,Ativo,Fortaleza,CE,Ensino Médio
+VLT-0478,Vinícius Lima Pereira,M,1990-03-29,2021-02-06,Senior Analyst,Senior,Technology,4752.35,CLT,Ativo,Campinas,SP,Ensino Médio
+VLT-0129,Renata Carvalho Souza,F,2000-08-27,2019-09-05,Senior Analyst,Senior,Technology,13185.38,CLT,Ativo,Brasília,DF,MBA
+VLT-0149,Lucas Lima Pereira,M,1988-12-06,2019-07-16,Specialist,Specialist,Technology,7220.95,CLT,Ativo,Recife,PE,Graduação
+VLT-0176,Amanda Rodrigues Lima,F,1991-04-06,2019-09-09,Specialist,Specialist,Technology,7659.65,PJ,Ativo,Campinas,SP,Mestrado
+VLT-0292,Amanda Ribeiro Sousa,F,1996-05-23,2019-04-22,Specialist,Specialist,Technology,11857.7,CLT,Ativo,Brasília,DF,Pós-Graduação
+VLT-0587,Renata Ribeiro Barbosa,F,1979-04-20,2024-09-16,Junior Analyst,Junior,Technology,10965.56,CLT,Ativo,Brasília,DF,MBA
+VLT-0588,João Ferreira Barbosa,M,25/01/1989,13/07/2024,Junior Analyst,Junior,Technology,10125.0,CLT,Ativo,Porto Alegre,RS,Pós-Graduação
+VLT-0369,Rodrigo Sousa Barbosa,M,1988-08-23,2018-07-07,Junior Analyst,Junior,Technology,10988.03,CLT,Ativo,Brasília,DF,Ensino Médio
+VLT-0234,João Fernandes Martins,M,1976-12-09,2020-04-15,Analyst,Mid,Technology,14405.51,PJ,Ativo,Campinas,SP,Pós-Graduação
+VLT-0051,Renata Lopes Ferreira,F,1989-09-14,2021-08-01,Junior Analyst,Junior,Technology,13774.35,CLT,Ativo,Brasília,DF,Graduação
+VLT-0338,Eduardo Fernandes Silva,M,1999-10-08,2023-06-06,Junior Analyst,Junior,Technology,6644.68,CLT,Inativo,Sorocaba,SP,Mestrado
+VLT-0040,Claudia Lima Costa,F,1997-07-31,2023-12-08,Senior Analyst,Senior,Technology,8221.83,CLT,Inativo,Rio de Janeiro,RJ,Graduação
+VLT-0327,Priscila Alves Alves,F,1983-12-24,2020-09-12,Senior Analyst,Senior,Technology,11369.67,PJ,Ativo,Brasília,DF,Ensino Médio
+VLT-0303,Beatriz Lima Sousa,F,1976-07-17,2020-06-01,Senior Analyst,Senior,Technology,6636.4,CLT,Ativo,Campinas,SP,Pós-Graduação
+VLT-0147,Mariana Santos Vieira,F,1990-07-04,2018-12-19,Specialist,Specialist,Technology,9820.25,PJ,Ativo,Brasília,DF,Pós-Graduação
+VLT-0298,Carlos Sousa Sousa,M,1993-05-03,2021-09-29,Specialist,Specialist,Technology,7684.77,CLT,Inativo,Brasília,DF,MBA
+VLT-0574,Felipe Oliveira Santos,M,1982-05-04,2019-04-18,Specialist,Specialist,Technology,14338.87,CLT,Inativo,Porto Alegre,RS,Ensino Médio
+VLT-0597,Roberta Sousa Fernandes,F,1981-11-21,2019-09-06,Junior Analyst,Junior,Technology,7440.49,CLT,Inativo,Fortaleza,CE,MBA
+VLT-0067,Natalia Costa Silva,F,1997-12-30,2022-01-31,Junior Analyst,Junior,Technology,4743.06,CLT,Ativo,Rio de Janeiro,RJ,Ensino Médio
+VLT-0213,Lucas Pereira Lopes,M,1990-05-15,2022-04-02,Junior Analyst,Junior,Technology,10786.0,CLT,Ativo,Porto Alegre,RS,MBA
+VLT-0263,Larissa Lima Souza,F,1978-06-28,2023-04-08,Analyst,Mid,Technology,4506.91,CLT,Inativo,Brasília,DF,Pós-Graduação

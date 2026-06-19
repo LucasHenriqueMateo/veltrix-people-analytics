@@ -1,0 +1,610 @@
+﻿movimentacao_id,colaborador_id,tipo,data,motivo,departamento_origem,departamento_destino,cargo_origem,cargo_destino,nivel_origem,nivel_destino,salario_anterior,salario_novo
+MOV-00677,VLT-0160,Termination,2025-01-14,Involuntary Termination,Sales,,Key Account,,Senior,,10032.76,
+MOV-00719,VLT-0433,Termination,2024-06-14,Voluntary Resignation,Sales,,Gerente Comercial,,Junior,,3631.81,
+MOV-00788,VLT-0135,Salary Increase,22/02/2025,Mérito,Sales,Sales,Executivo de Vendas,Executivo de Vendas,Senior,Senior,8656.36,11180.27
+MOV-00418,VLT-0418,Hire,2021-07-23,Contratação,,Sales,,Executivo de Vendas,,Junior,,4310.24
+MOV-00577,VLT-0577,Hire,2024-04-04,Contratação,,Technology,,DevOps,,Mid,,7866.45
+MOV-00087,VLT-0087,Hire,2025-01-18,Contratação,,Operations,,Coordenador de Projetos,,Mid,,5858.41
+MOV-00933,VLT-0166,Salary Increase,2024-01-06,Reajuste anual,Technology,Technology,Analista de Dados,Analista de Dados,Junior,Junior,4456.11,5489.71
+MOV-00953,VLT-0057,Salary Increase,2024-12-09,Promoção de cargo,Sales,Sales,Gerente Comercial,Gerente Comercial,Mid,Mid,5884.17,7031.62
+MOV-00423,VLT-0423,Hire,2024-05-10,Contratação,,Operations,,Analista Financeiro,,Mid,,7247.37
+MOV-00963,VLT-0184,Salary Increase,2020-12-04,Promoção de cargo,Operations,Operations,Analista Financeiro,Analista Financeiro,Mid,Mid,6163.79,7846.73
+MOV-00122,VLT-0122,Hire,2022-06-29,Contratação,,People & Culture,,Recrutador,,Senior,,9330.36
+MOV-00213,VLT-0213,Hire,2022-04-02,Contratação,,Technology,,QA,,Senior,,10786.0
+MOV-00599,VLT-0599,Hire,2025-03-01,Contratação,,Sales,,Gerente Comercial,,Mid,,6713.43
+MOV-00985,VLT-0513,Termination,2021-08-05,Terminated for Cause,Operations,,Analista Financeiro,,Mid,,6668.04,
+MOV-00067,VLT-0067,Hire,2022-01-31,Contratação,,Technology,,Analista de Dados,,Junior,,4743.06
+MOV-00703,VLT-0338,Termination,2024-01-13,Terminated for Cause,Technology,,DevOps,,Mid,,6644.68,
+MOV-00615,VLT-0615,Hire,2023-01-07,Contratação,,People & Culture,,Analista de RH,,Junior,,3259.94
+MOV-00940,VLT-0483,Transfer,2022-07-13,Reestruturação organizacional,Product,Legal,Product Analyst,Advogado,Junior,Junior,5208.03,5208.03
+MOV-00978,VLT-0297,Termination,2024-01-04,Involuntary Termination,Technology,,QA,,Mid,,6521.42,
+MOV-00175,VLT-0175,Hire,2018-05-10,Contratação,,Operations,,Auxiliar Contábil,,Mid,,7087.38
+MOV-00223,VLT-0223,Hire,2024-02-25,Contratação,,Operations,,Coordenador de Projetos,,Senior,,9503.53
+MOV-00512,VLT-0512,Hire,2021-07-16,Contratação,,Sales,,Key Account,,Senior,,8814.83
+MOV-00655,VLT-0033,Termination,2021-09-02,Involuntary Termination,Sales,,Key Account,,Junior,,3856.02,
+MOV-00160,VLT-0160,Hire,2024-03-05,Contratação,,Sales,,Key Account,,Senior,,10032.76
+MOV-00662,VLT-0068,Termination,2021-07-30,Involuntary Termination,Sales,,SDR,,Senior,,9150.18,
+MOV-00050,VLT-0050,Hire,2018-04-10,Contratação,,Operations,,Analista de Operações,,Senior,,10069.36
+MOV-00496,VLT-0496,Hire,2022-08-08,Contratação,,Operations,,Analista Financeiro,,Junior,,4399.44
+MOV-00327,VLT-0327,Hire,12/09/2020,Contratação,,Technology,,Arquiteto de Software,,Senior,,11369.67
+MOV-00448,VLT-0448,Hire,2021-02-13,Contratação,,Sales,,Gerente Comercial,,Mid,,5648.45
+MOV-00561,VLT-0561,Hire,2021-02-21,Contratação,,People & Culture,,Recrutador,,Specialist,,10892.18
+MOV-00699,VLT-0319,Termination,2024-01-07,Involuntary Termination,People & Culture,,Analista de RH,,Mid,,6367.79,
+MOV-00730,VLT-0513,Termination,2021-08-05,Terminated for Cause,Operations,,Analista Financeiro,,Mid,,6668.04,
+MOV-00056,VLT-0056,Hire,2021-07-02,Contratação,,People & Culture,,Analista de RH,,Specialist,,9822.04
+MOV-00433,VLT-0433,Hire,2021-08-21,Contratação,,Sales,,Gerente Comercial,,Junior,,3631.81
+MOV-00258,VLT-0258,Hire,2019-07-09,Contratação,,People & Culture,,Analista de RH,,Mid,,5622.44
+MOV-00207,VLT-0207,Hire,2024-03-24,Contratação,,Product,,Product Manager,,Senior,,12376.73
+MOV-00135,VLT-0135,Hire,2024-05-11,Contratação,,Sales,,Executivo de Vendas,,Senior,,8656.36
+MOV-00701,VLT-0334,Termination,20/08/2023,Voluntary Resignation,Operations,,Controller,,Mid,,7130.87,
+MOV-00273,VLT-0273,Hire,2019-06-13,Contratação,,Sales,,Key Account,,Junior,,4296.34
+MOV-00796,VLT-0440,Transfer,2021-04-17,Reestruturação organizacional,Operations,Product,Analista de Operações,Product Designer,Mid,Mid,7164.11,7164.11
+MOV-00432,VLT-0432,Hire,2018-01-22,Contratação,,Operations,,Coordenador de Projetos,,Specialist,,12492.53
+MOV-00412,VLT-0412,Hire,2022-10-27,Contratação,,Technology,,Analista de Dados,,Senior,,12057.52
+MOV-00465,VLT-0465,Hire,2020-10-24,Contratação,,Sales,,Gerente Comercial,,Junior,,3467.13
+MOV-00001,VLT-0001,Hire,2022-11-12,Contratação,,Sales,,SDR,,Senior,,10282.13
+MOV-00830,VLT-0251,Salary Increase,2022-01-21,Mérito,Technology,Technology,QA,QA,Mid,Mid,6688.52,8298.81
+MOV-00674,VLT-0138,Termination,2024-08-09,Involuntary Termination,Operations,,Controller,,Mid,,7558.1,
+MOV-00894,VLT-0017,Promotion,2019-12-26,Substituição de gestor,Technology,Technology,Analista de Dados,Analista de Dados,Junior,Mid,4582.68,5681.54
+MOV-00344,VLT-0344,Hire,2020-07-23,Contratação,,Sales,,Key Account,,Mid,,6659.23
+MOV-00621,VLT-0621,Hire,2022-09-04,Contratação,,Product,,Product Manager,,Junior,,5215.24
+MOV-00416,VLT-0416,Hire,2021-07-31,Contratação,,Sales,,Gerente Comercial,,Specialist,,10662.76
+MOV-00439,VLT-0439,Hire,2018-10-04,Contratação,,Operations,,Analista de Processos,,Mid,,6219.89
+MOV-00808,VLT-0089,Salary Increase,2023-12-08,Reajuste anual,People & Culture,People & Culture,Recrutador,Recrutador,Senior,Senior,9003.65,10048.68
+MOV-00137,VLT-0137,Hire,2020-02-25,Contratação,,Operations,,Analista de Processos,,Junior,,4503.86
+MOV-00151,VLT-0151,Hire,2019-10-23,Contratação,,Technology,,DevOps,,Mid,,6679.07
+MOV-00540,VLT-0540,Hire,2019-07-22,Contratação,,Operations,,Analista Financeiro,,Mid,,6506.83
+MOV-00942,VLT-0422,Salary Increase,2025-07-31,Mérito,Operations,Operations,Analista de Processos,Analista de Processos,Senior,Senior,9808.21,12289.05
+MOV-00529,VLT-0529,Hire,2024-08-21,Contratação,,Operations,,Coordenador de Projetos,,Senior,,8838.93
+MOV-00456,VLT-0456,Hire,18/06/2023,Contratação,,People & Culture,,Recrutador,,Senior,,8048.34
+MOV-00705,VLT-0367,Termination,2023-05-08,Voluntary Resignation,Technology,,Arquiteto de Software,,Junior,,4091.96,
+MOV-00158,VLT-0158,Hire,2018-12-16,Contratação,,Product,,Product Analyst,,Junior,,4925.5
+MOV-00068,VLT-0068,Hire,2020-04-16,Contratação,,Sales,,SDR,,Senior,,9150.18
+MOV-00837,VLT-0613,Salary Increase,2024-01-06,Equiparação salarial,Sales,Sales,Key Account,Key Account,Mid,Mid,5707.66,6947.42
+MOV-00396,VLT-0396,Hire,2024-09-26,Contratação,,People & Culture,,Analista de RH,,Senior,,8526.94
+MOV-00891,VLT-0544,Transfer,2025-05-31,Reestruturação organizacional,People & Culture,Legal,Analista de RH,Paralegal,Senior,Senior,8027.05,8027.05
+MOV-00149,VLT-0149,Hire,2019-07-16,Contratação,,Technology,,Analista de Dados,,Mid,,7220.95
+MOV-00811,VLT-0356,Promotion,2025-06-24,Expansão de time,Operations,Operations,Analista de Processos,Analista de Processos,Mid,Senior,6787.98,7240.58
+MOV-00932,VLT-0307,Promotion,2025-07-05,Mérito,Operations,Operations,Coordenador de Projetos,Coordenador de Projetos,Mid,Senior,6635.97,7272.59
+MOV-00420,VLT-0420,Hire,2024-01-19,Contratação,,People & Culture,,Analista de T&D,,Junior,,3858.74
+MOV-00041,VLT-0041,Hire,2023-06-30,Contratação,,Technology,,QA,,Senior,,12138.38
+MOV-00758,VLT-0627,Termination,2025-08-29,Voluntary Resignation,Operations,,Coordenador de Projetos,,Senior,,10491.69,
+MOV-00078,VLT-0078,Hire,2019-10-13,Contratação,,Operations,,Tesoureiro,,Senior,,11484.16
+MOV-00422,VLT-0422,Hire,2022-11-22,Contratação,,Operations,,Analista de Processos,,Senior,,9808.21
+MOV-00669,VLT-0109,Termination,2023-03-06,Voluntary Resignation,Sales,,Executivo de Vendas,,Mid,,6330.0,
+MOV-00210,VLT-0210,Hire,2019-07-29,Contratação,,Sales,,Gerente Comercial,,Junior,,3905.83
+MOV-00392,VLT-0392,Hire,2023-09-13,Contratação,,Operations,,Analista de Operações,,Mid,,5946.71
+MOV-00682,VLT-0211,Termination,2020-03-30,Involuntary Termination,Sales,,Executivo de Vendas,,Junior,,4013.9,
+MOV-00886,VLT-0060,Transfer,2022-09-04,Reestruturação organizacional,Operations,Marketing,Controller,Analista de Performance,Senior,Senior,10621.12,10621.12
+MOV-00535,VLT-0535,Hire,2022-01-23,Contratação,,Sales,,Gerente Comercial,,Junior,,3685.74
+MOV-00760,VLT-0631,Termination,2025-09-08,Terminated for Cause,Sales,,Executivo de Vendas,,Mid,,5893.0,
+MOV-00331,VLT-0331,Hire,07/05/2022,Contratação,,Product,,Product Designer,,Junior,,5057.32
+MOV-00235,VLT-0235,Hire,2020-03-29,Contratação,,People & Culture,,Recrutador,,Mid,,5185.63
+MOV-00693,VLT-0263,Termination,25/04/2024,Voluntary Resignation,Technology,,Arquiteto de Software,,Junior,,4506.91,
+MOV-00522,VLT-0522,Hire,2024-12-07,Contratação,,Technology,,Arquiteto de Software,,Mid,,6626.09
+MOV-00039,VLT-0039,Hire,2020-11-24,Contratação,,People & Culture,,Analista de RH,,Junior,,3636.39
+MOV-00098,VLT-0098,Hire,2023-08-01,Contratação,,Technology,,DevOps,,Junior,,4687.12
+MOV-00166,VLT-0166,Hire,2023-04-03,Contratação,,Technology,,Analista de Dados,,Junior,,4456.11
+MOV-00683,VLT-0215,Termination,21/06/2023,Terminated for Cause,People & Culture,,Analista de RH,,Mid,,5918.01,
+MOV-00784,VLT-0327,Promotion,2024-01-16,Substituição de gestor,Technology,Technology,Arquiteto de Software,Arquiteto de Software,Senior,Specialist,11369.67,13316.69
+MOV-00753,VLT-0610,Termination,2023-10-23,Involuntary Termination,Technology,,QA,,Senior,,11517.52,
+MOV-00194,VLT-0194,Hire,2020-08-09,Contratação,,Operations,,Analista Financeiro,,Mid,,6873.33
+MOV-00727,VLT-0502,Termination,2024-12-19,Voluntary Resignation,Operations,,Analista Financeiro,,Mid,,7474.7,
+MOV-00568,VLT-0568,Hire,2018-12-06,Contratação,,Product,,Product Designer,,Mid,,8388.95
+MOV-00409,VLT-0409,Hire,2019-12-12,Contratação,,People & Culture,,HRBP,,Senior,,8492.56
+MOV-00712,VLT-0397,Termination,01/12/2024,Terminated for Cause,Operations,,Analista de Processos,,Mid,,7045.12,
+MOV-00854,VLT-0141,Salary Increase,2024-12-20,Mérito,Sales,Sales,Gerente Comercial,Gerente Comercial,Mid,Mid,6741.21,8149.2
+MOV-00283,VLT-0283,Hire,2019-10-09,Contratação,,People & Culture,,Analista de RH,,Mid,,6276.35
+MOV-00656,VLT-0038,Termination,2019-07-15,Involuntary Termination,Operations,,Coordenador de Projetos,,Senior,,9586.48,
+MOV-00949,VLT-0460,Salary Increase,18/10/2021,Mérito,Operations,Operations,Controller,Controller,Senior,Senior,11510.05,12380.35
+MOV-00257,VLT-0257,Hire,2024-05-17,Contratação,,People & Culture,,Recrutador,,Junior,,3305.32
+MOV-00502,VLT-0502,Hire,2024-04-13,Contratação,,Operations,,Analista Financeiro,,Mid,,7474.7
+MOV-00491,VLT-0491,Hire,2022-09-18,Contratação,,Sales,,Key Account,,Mid,,6962.52
+MOV-00631,VLT-0631,Hire,2025-02-11,Contratação,,Sales,,Executivo de Vendas,,Mid,,5893.0
+MOV-00016,VLT-0016,Hire,2023-02-20,Contratação,,Operations,,Analista de Processos,,Mid,,5969.72
+MOV-00284,VLT-0284,Hire,2020-01-21,Contratação,,Technology,,Analista de Dados,,Senior,,10740.59
+MOV-00640,VLT-0640,Hire,2025-06-20,Contratação,,People & Culture,,Recrutador,,Junior,,4012.78
+MOV-00006,VLT-0006,Hire,2022-06-18,Contratação,,Sales,,Key Account,,Junior,,4149.82
+MOV-00091,VLT-0091,Hire,2023-12-30,Contratação,,People & Culture,,HRBP,,Specialist,,9668.79
+MOV-00952,VLT-0056,Salary Increase,2023-02-16,Equiparação salarial,People & Culture,People & Culture,Analista de RH,Analista de RH,Specialist,Specialist,9822.04,11341.57
+MOV-00779,VLT-0256,Salary Increase,2021-03-22,Equiparação salarial,People & Culture,People & Culture,Analista de RH,Analista de RH,Mid,Mid,5990.77,7302.58
+MOV-00008,VLT-0008,Hire,2022-05-27,Contratação,,Operations,,Analista Financeiro,,Mid,,7511.25
+MOV-00565,VLT-0565,Hire,2023-05-22,Contratação,,Technology,,Arquiteto de Software,,Junior,,5169.59
+MOV-00346,VLT-0346,Hire,2019-03-19,Contratação,,People & Culture,,Analista de T&D,,Junior,,"3345,53"
+MOV-00885,VLT-0416,Salary Increase,2023-10-23,Mérito,Sales,Sales,Gerente Comercial,Gerente Comercial,Specialist,Specialist,10662.76,12967.17
+MOV-00018,VLT-0018,Hire,2023-09-02,Contratação,,Product,,Product Manager,,Specialist,,16425.46
+MOV-00040,VLT-0040,Hire,2023-12-08,Contratação,,Technology,,QA,,Mid,,8221.83
+MOV-00585,VLT-0585,Hire,2021-08-10,Contratação,,Operations,,Coordenador de Projetos,,Mid,,7359.62
+MOV-00134,VLT-0134,Hire,2024-05-23,Contratação,,People & Culture,,Analista de T&D,,Junior,,3701.34
+MOV-00530,VLT-0530,Hire,2018-09-07,Contratação,,Operations,,Tesoureiro,,Mid,,"7152,63"
+MOV-00739,VLT-0547,Termination,2025-07-19,Terminated for Cause,People & Culture,,Recrutador,,Senior,,8037.88,
+MOV-00754,VLT-0615,Termination,2024-09-30,Involuntary Termination,People & Culture,,Analista de RH,,Junior,,3259.94,
+MOV-00610,VLT-0610,Hire,2019-03-25,Contratação,,Technology,,QA,,Senior,,11517.52
+MOV-00700,VLT-0332,Termination,2022-02-12,Voluntary Resignation,Product,,Product Analyst,,Mid,,8171.15,
+MOV-00217,VLT-0217,Hire,2025-06-01,Contratação,,Product,,Product Analyst,,Mid,,8042.0
+MOV-00469,VLT-0469,Hire,2022-09-21,Contratação,,Technology,,DevOps,,Senior,,11266.46
+MOV-00261,VLT-0261,Hire,28/10/2018,Contratação,,Operations,,Auxiliar Contábil,,Senior,,10110.34
+MOV-00017,VLT-0017,Hire,10/09/2018,Contratação,,Technology,,Analista de Dados,,Junior,,4582.68
+MOV-00237,VLT-0237,Hire,2024-03-28,Contratação,,Technology,,QA,,Mid,,8155.23
+MOV-00857,VLT-0149,Promotion,2020-12-01,Reestruturação,Technology,Technology,Analista de Dados,Analista de Dados,Mid,Senior,7220.95,8063.6
+MOV-00767,VLT-0228,Promotion,2025-02-26,Reestruturação,People & Culture,People & Culture,HRBP,HRBP,Senior,Specialist,9283.0,12013.55
+MOV-00920,VLT-0294,Salary Increase,2024-04-01,Equiparação salarial,Operations,Operations,Analista Financeiro,Analista Financeiro,Specialist,Specialist,11020.78,12248.99
+MOV-00490,VLT-0490,Hire,2022-03-23,Contratação,,Sales,,Gerente Comercial,,Mid,,6266.97
+MOV-00165,VLT-0165,Hire,2023-05-03,Contratação,,Technology,,Desenvolvedor,,Junior,,4970.59
+MOV-00320,VLT-0320,Hire,2019-01-12,Contratação,,People & Culture,,HRBP,,Senior,,8107.43
+MOV-00389,VLT-0389,Hire,2024-12-31,Contratação,,Technology,,DevOps,,Mid,,7718.92
+MOV-00890,VLT-0524,Salary Increase,2025-03-03,Reajuste anual,Technology,Technology,Desenvolvedor,Desenvolvedor,Senior,Senior,10060.42,11019.0
+MOV-00348,VLT-0348,Hire,2023-09-15,Contratação,,Product,,Product Manager,,Mid,,8683.63
+MOV-00215,VLT-0215,Hire,2022-05-16,Contratação,,People & Culture,,Analista de RH,,Mid,,5918.01
+MOV-00052,VLT-0052,Hire,2020-12-20,Contratação,,Product,,Product Analyst,,Mid,,9526.93
+MOV-00499,VLT-0499,Hire,2020-04-21,Contratação,,Operations,,Analista de Processos,,Mid,,6025.59
+MOV-00930,VLT-0284,Salary Increase,2024-09-13,Mérito,Technology,Technology,Analista de Dados,Analista de Dados,Senior,Senior,10740.59,12120.42
+MOV-00385,VLT-0385,Hire,2019-05-25,Contratação,,Operations,,Coordenador de Projetos,,Junior,,4153.33
+MOV-00844,VLT-0222,Salary Increase,2024-11-13,Equiparação salarial,Operations,Operations,Auxiliar Contábil,Auxiliar Contábil,Specialist,Specialist,11966.44,14482.28
+MOV-00792,VLT-0203,Salary Increase,2024-10-15,Reajuste anual,Product,Product,Product Analyst,Product Analyst,Junior,Junior,5316.89,6632.1
+MOV-00481,VLT-0481,Hire,2020-01-01,Contratação,,People & Culture,,Analista de T&D,,Specialist,,10795.52
+MOV-00900,VLT-0346,Transfer,30/09/2025,Pedido do colaborador,People & Culture,Logistics,Analista de T&D,Analista de Logística,Junior,Junior,3345.53,3345.53
+MOV-00847,VLT-0639,Promotion,2023-12-19,Expansão de time,Operations,Operations,Analista de Operações,Analista de Operações,Junior,Mid,4015.64,4777.61
+MOV-00382,VLT-0382,Hire,2025-02-06,Contratação,,Operations,,Coordenador de Projetos,,Mid,,6354.55
+MOV-00834,VLT-0212,Promotion,2025-01-27,Mérito,Operations,Operations,Tesoureiro,Tesoureiro,Mid,Senior,7122.8,9177.35
+MOV-00776,VLT-0012,Salary Increase,2021-10-05,Reajuste anual,People & Culture,People & Culture,HRBP,HRBP,Senior,Senior,8306.68,10665.3
+MOV-00593,VLT-0593,Hire,2021-11-30,Contratação,,People & Culture,,Analista de T&D,,Mid,,6030.97
+MOV-00781,VLT-0412,Promotion,2025-02-11,Expansão de time,Technology,Technology,Analista de Dados,Analista de Dados,Senior,Specialist,12057.52,12743.01
+MOV-00100,VLT-0100,Hire,2018-12-12,Contratação,,People & Culture,,Analista de T&D,,Senior,,7953.56
+MOV-00143,VLT-0143,Hire,2019-08-18,Contratação,,Operations,,Analista de Processos,,Specialist,,11157.49
+MOV-00080,VLT-0080,Hire,2024-07-10,Contratação,,Product,,Product Analyst,,Specialist,,15844.88
+MOV-00617,VLT-0617,Hire,2023-11-15,Contratação,,Operations,,Coordenador de Projetos,,Senior,,"10500,47"
+MOV-00969,VLT-0260,Promotion,2025-09-03,Substituição de gestor,Product,Product,Product Designer,Product Designer,Specialist,Gestor,16041.65,17700.46
+MOV-00889,VLT-0644,Salary Increase,2023-08-02,Mérito,Operations,Operations,Auxiliar Contábil,Auxiliar Contábil,Specialist,Specialist,12235.13,14011.73
+MOV-00195,VLT-0195,Hire,2023-02-04,Contratação,,Sales,,Executivo de Vendas,,Junior,,3503.84
+MOV-00444,VLT-0444,Hire,2020-06-11,Contratação,,Operations,,Tesoureiro,,Mid,,6903.68
+MOV-00948,VLT-0049,Salary Increase,2025-09-11,Mérito,People & Culture,People & Culture,Analista de T&D,Analista de T&D,Junior,Junior,3180.5,3894.66
+MOV-00402,VLT-0402,Hire,23/06/2018,Contratação,,People & Culture,,HRBP,,Senior,,8810.2
+MOV-00070,VLT-0070,Hire,2024-03-06,Contratação,,Operations,,Controller,,Junior,,4737.33
+MOV-00557,VLT-0557,Hire,2021-06-13,Contratação,,Technology,,DevOps,,Senior,,"10679,27"
+MOV-00667,VLT-0106,Termination,2025-07-12,Involuntary Termination,Sales,,Gerente Comercial,,Specialist,,10346.86,
+MOV-00681,VLT-0210,Termination,2024-09-14,Involuntary Termination,Sales,,Gerente Comercial,,Junior,,3905.83,
+MOV-00360,VLT-0360,Hire,2024-02-14,Contratação,,Operations,,Coordenador de Projetos,,Mid,,6259.97
+MOV-00874,VLT-0606,Promotion,2024-07-17,Reestruturação,Technology,Technology,QA,QA,Senior,Specialist,11350.71,13498.77
+MOV-00519,VLT-0519,Hire,2023-03-15,Contratação,,Operations,,Coordenador de Projetos,,Mid,,6326.64
+MOV-00925,VLT-0430,Salary Increase,2024-11-05,Promoção de cargo,Sales,Sales,Key Account,Key Account,Mid,Mid,5830.88,7005.03
+MOV-00850,VLT-0607,Transfer,2025-09-04,Necessidade da área,Operations,Sales,Tesoureiro,Gerente Comercial,Senior,Senior,10418.16,10418.16
+MOV-00074,VLT-0074,Hire,13/11/2021,Contratação,,Sales,,Gerente Comercial,,Junior,,3445.56
+MOV-00321,VLT-0321,Hire,2022-03-11,Contratação,,Product,,Product Manager,,Mid,,7912.67
+MOV-00478,VLT-0478,Hire,2021-02-06,Contratação,,Technology,,DevOps,,Junior,,4752.35
+MOV-00775,VLT-0485,Salary Increase,2024-11-04,Reajuste anual,Product,Product,Product Analyst,Product Analyst,Junior,Junior,5844.39,7014.35
+MOV-00564,VLT-0564,Hire,2024-02-26,Contratação,,People & Culture,,Analista de RH,,Senior,,7720.25
+MOV-00399,VLT-0399,Hire,2019-06-22,Contratação,,People & Culture,,HRBP,,Junior,,3706.39
+MOV-00249,VLT-0249,Hire,2022-01-29,Contratação,,Sales,,SDR,,Junior,,4229.92
+MOV-00511,VLT-0511,Hire,2020-07-22,Contratação,,Sales,,Executivo de Vendas,,Specialist,,11121.15
+MOV-00711,VLT-0395,Termination,2023-04-15,Involuntary Termination,Product,,Product Analyst,,Junior,,5168.82,
+MOV-00167,VLT-0167,Hire,2024-05-19,Contratação,,Operations,,Auxiliar Contábil,,Mid,,6154.65
+MOV-00003,VLT-0003,Hire,2023-03-23,Contratação,,Sales,,Executivo de Vendas,,Senior,,9339.83
+MOV-00544,VLT-0544,Hire,2023-01-24,Contratação,,People & Culture,,Analista de RH,,Senior,,8027.05
+MOV-00189,VLT-0189,Hire,2019-05-19,Contratação,,Operations,,Analista Financeiro,,Mid,,6655.76
+MOV-00524,VLT-0524,Hire,2022-03-24,Contratação,,Technology,,Desenvolvedor,,Senior,,10060.42
+MOV-00723,VLT-0442,Termination,2023-12-04,Voluntary Resignation,Product,,Product Manager,,Specialist,,14329.1,
+MOV-00144,VLT-0144,Hire,2019-06-01,Contratação,,Product,,Product Designer,,Junior,,5614.33
+MOV-00908,VLT-0529,Salary Increase,2025-04-16,Promoção de cargo,Operations,Operations,Coordenador de Projetos,Coordenador de Projetos,Senior,Senior,8838.93,10361.21
+MOV-00146,VLT-0146,Hire,2024-05-01,Contratação,,Operations,,Analista de Operações,,Mid,,5822.77
+MOV-00826,VLT-0595,Salary Increase,2025-08-27,Mérito,Operations,Operations,Tesoureiro,Tesoureiro,Mid,Mid,7209.31,9133.54
+MOV-00145,VLT-0145,Hire,2020-01-15,Contratação,,Technology,,QA,,Mid,,8004.09
+MOV-00113,VLT-0113,Hire,2021-10-02,Contratação,,Operations,,Coordenador de Projetos,,Mid,,6009.1
+MOV-00541,VLT-0541,Hire,2020-09-22,Contratação,,People & Culture,,Analista de RH,,Specialist,,9852.2
+MOV-00954,VLT-0498,Promotion,2025-06-02,Expansão de time,Product,Product,Product Analyst,Product Analyst,Mid,Senior,8351.07,9429.06
+MOV-00765,VLT-0227,Transfer,2025-02-08,Necessidade da área,People & Culture,Operations,Analista de RH,Analista Financeiro,Mid,Mid,6109.58,6109.58
+MOV-00097,VLT-0097,Hire,2022-09-23,Contratação,,Technology,,QA,,Senior,,10189.54
+MOV-00182,VLT-0182,Hire,2019-07-07,Contratação,,Technology,,Arquiteto de Software,,Mid,,7905.8
+MOV-00880,VLT-0598,Promotion,2020-02-24,Expansão de time,Sales,Sales,Gerente Comercial,Gerente Comercial,Junior,Mid,3423.7,4046.16
+MOV-00032,VLT-0032,Hire,2020-06-10,Contratação,,Operations,,Analista Financeiro,,Mid,,6864.14
+MOV-00581,VLT-0581,Hire,2018-11-20,Contratação,,Sales,,Key Account,,Senior,,8471.84
+MOV-00242,VLT-0242,Hire,2021-08-21,Contratação,,Operations,,Analista de Processos,,Junior,,4387.69
+MOV-00429,VLT-0429,Hire,2018-07-22,Contratação,,Technology,,DevOps,,Mid,,8179.44
+MOV-00372,VLT-0372,Hire,2020-10-09,Contratação,,People & Culture,,Recrutador,,Senior,,7857.82
+MOV-00201,VLT-0201,Hire,2024-04-15,Contratação,,Operations,,Tesoureiro,,Mid,,6438.88
+MOV-00587,VLT-0587,Hire,2024-09-16,Contratação,,Technology,,DevOps,,Senior,,10965.56
+MOV-00470,VLT-0470,Hire,2018-12-24,Contratação,,Technology,,Arquiteto de Software,,Senior,,10685.5
+MOV-00268,VLT-0268,Hire,29/07/2024,Contratação,,Technology,,Analista de Dados,,Mid,,6609.88
+MOV-00350,VLT-0350,Hire,2019-04-19,Contratação,,Sales,,SDR,,Junior,,3700.54
+MOV-00901,VLT-0481,Promotion,2021-06-01,Expansão de time,People & Culture,People & Culture,Analista de T&D,Analista de T&D,Specialist,Gestor,10795.52,12663.1
+MOV-00374,VLT-0374,Hire,06/06/2020,Contratação,,Sales,,Key Account,,Senior,,8534.42
+MOV-00246,VLT-0246,Hire,2018-10-28,Contratação,,Sales,,Key Account,,Mid,,5569.19
+MOV-00982,VLT-0265,Termination,10/03/2022,Voluntary Resignation,People & Culture,,Analista de RH,,Senior,,8425.74,
+MOV-00307,VLT-0307,Hire,25/07/2021,Contratação,,Operations,,Coordenador de Projetos,,Mid,,6635.97
+MOV-00935,VLT-0362,Transfer,2025-05-11,Pedido do colaborador,People & Culture,Legal,Analista de T&D,Analista Jurídico,Mid,Mid,5074.01,5074.01
+MOV-00049,VLT-0049,Hire,2020-11-18,Contratação,,People & Culture,,Analista de T&D,,Junior,,3180.5
+MOV-00055,VLT-0055,Hire,2019-03-10,Contratação,,Sales,,SDR,,Senior,,8613.29
+MOV-00370,VLT-0370,Hire,2024-02-03,Contratação,,Sales,,SDR,,Senior,,9583.62
+MOV-00309,VLT-0309,Hire,2021-07-06,Contratação,,People & Culture,,Analista de RH,,Mid,,6404.89
+MOV-00653,VLT-0011,Termination,2022-04-14,Involuntary Termination,Product,,Product Manager,,Specialist,,14189.05,
+MOV-00179,VLT-0179,Hire,07/05/2021,Contratação,,People & Culture,,HRBP,,Mid,,5496.46
+MOV-00216,VLT-0216,Hire,2023-02-05,Contratação,,Operations,,Tesoureiro,,Senior,,9072.89
+MOV-00818,VLT-0378,Salary Increase,2025-10-04,Mérito,Product,Product,Product Designer,Product Designer,Senior,Senior,11628.93,14071.07
+MOV-00251,VLT-0251,Hire,19/01/2019,Contratação,,Technology,,QA,,Mid,,6688.52
+MOV-00265,VLT-0265,Hire,2018-10-14,Contratação,,People & Culture,,Analista de RH,,Senior,,8425.74
+MOV-00907,VLT-0491,Salary Increase,2025-09-26,Promoção de cargo,Sales,Sales,Key Account,Key Account,Mid,Mid,6962.52,8225.24
+MOV-00695,VLT-0297,Termination,2024-01-04,Involuntary Termination,Technology,,QA,,Mid,,6521.42,
+MOV-00330,VLT-0330,Hire,2019-01-08,Contratação,,Sales,,SDR,,Mid,,"5795,01"
+MOV-00816,VLT-0579,Promotion,2023-06-25,Expansão de time,Operations,Operations,Auxiliar Contábil,Auxiliar Contábil,Junior,Mid,4773.35,5775.05
+MOV-00972,VLT-0453,Transfer,2025-09-10,Necessidade da área,Operations,Sales,Coordenador de Projetos,Gerente Comercial,Junior,Junior,4084.01,4084.01
+MOV-00922,VLT-0267,Transfer,2024-06-20,Reestruturação organizacional,Operations,Sales,Analista de Operações,Executivo de Vendas,Junior,Junior,3652.33,3652.33
+MOV-00791,VLT-0269,Salary Increase,2025-02-22,Reajuste anual,People & Culture,People & Culture,HRBP,HRBP,Junior,Junior,3704.72,4234.27
+MOV-00989,VLT-0332,Termination,2022-02-12,Voluntary Resignation,Product,,Product Analyst,,Mid,,8171.15,
+MOV-00957,VLT-0024,Transfer,2023-10-24,Reestruturação organizacional,Operations,Product,Coordenador de Projetos,Product Analyst,Senior,Senior,9066.96,9066.96
+MOV-00852,VLT-0572,Transfer,01/04/2022,Reestruturação organizacional,Operations,Legal,Coordenador de Projetos,Advogado,Senior,Senior,9944.41,9944.41
+MOV-00294,VLT-0294,Hire,2023-07-29,Contratação,,Operations,,Analista Financeiro,,Specialist,,11020.78
+MOV-00487,VLT-0487,Hire,2018-12-28,Contratação,,Sales,,SDR,,Mid,,6890.3
+MOV-00879,VLT-0098,Salary Increase,2025-10-09,Equiparação salarial,Technology,Technology,DevOps,DevOps,Junior,Junior,4687.12,5798.49
+MOV-00128,VLT-0128,Hire,2024-11-06,Contratação,,Operations,,Tesoureiro,,Mid,,6640.12
+MOV-00650,VLT-0650,Hire,2019-06-28,Contratação,,Operations,,Tesoureiro,,Mid,,6908.7
+MOV-00176,VLT-0176,Hire,2019-09-09,Contratação,,Technology,,Arquiteto de Software,,Mid,,7659.65
+MOV-00822,VLT-0454,Salary Increase,2025-09-08,Equiparação salarial,Operations,Operations,Analista de Operações,Analista de Operações,Mid,Mid,6271.07,7300.27
+MOV-00334,VLT-0334,Hire,2019-12-05,Contratação,,Operations,,Controller,,Mid,,7130.87
+MOV-00895,VLT-0549,Promotion,2025-07-13,Reestruturação,Operations,Operations,Analista de Processos,Analista de Processos,Senior,Specialist,8676.24,10914.34
+MOV-00691,VLT-0258,Termination,17/03/2021,Terminated for Cause,People & Culture,,Analista de RH,,Mid,,5622.44,
+MOV-00009,VLT-0009,Hire,20/02/2019,Contratação,,Sales,,SDR,,Senior,,8441.43
+MOV-00500,VLT-0500,Hire,2025-04-07,Contratação,,Product,,Product Manager,,Specialist,,13506.54
+MOV-00829,VLT-0548,Promotion,2023-10-24,Expansão de time,Operations,Operations,Analista Financeiro,Analista Financeiro,Mid,Senior,7594.95,8108.47
+MOV-00338,VLT-0338,Hire,2023-06-06,Contratação,,Technology,,DevOps,,Mid,,6644.68
+MOV-00051,VLT-0051,Hire,2021-08-01,Contratação,,Technology,,DevOps,,Specialist,,13774.35
+MOV-00528,VLT-0528,Hire,2020-11-09,Contratação,,People & Culture,,Analista de RH,,Mid,,6128.4
+MOV-00676,VLT-0153,Termination,2020-01-12,Voluntary Resignation,Operations,,Auxiliar Contábil,,Mid,,7664.2,
+MOV-00038,VLT-0038,Hire,2018-11-04,Contratação,,Operations,,Coordenador de Projetos,,Senior,,9586.48
+MOV-00106,VLT-0106,Hire,2022-07-07,Contratação,,Sales,,Gerente Comercial,,Specialist,,10346.86
+MOV-00882,VLT-0608,Transfer,2024-07-01,Pedido do colaborador,Operations,Technology,Analista Financeiro,Analista de Dados,Senior,Senior,10102.24,10102.24
+MOV-00538,VLT-0538,Hire,2019-03-06,Contratação,,People & Culture,,HRBP,,Senior,,"9503,29"
+MOV-00672,VLT-0123,Termination,25/07/2024,Terminated for Cause,Product,,Product Manager,,Junior,,5242.95,
+MOV-00770,VLT-0121,Salary Increase,2020-08-05,Mérito,People & Culture,People & Culture,HRBP,HRBP,Junior,Junior,3651.24,4001.44
+MOV-00566,VLT-0566,Hire,2019-09-08,Contratação,,Sales,,SDR,,Junior,,3720.74
+MOV-00803,VLT-0268,Salary Increase,2025-02-14,Promoção de cargo,Technology,Technology,Analista de Dados,Analista de Dados,Mid,Mid,6609.88,7351.25
+MOV-00572,VLT-0572,Hire,2020-07-31,Contratação,,Operations,,Coordenador de Projetos,,Senior,,9944.41
+MOV-00362,VLT-0362,Hire,2024-07-11,Contratação,,People & Culture,,Analista de T&D,,Mid,,5074.01
+MOV-00069,VLT-0069,Hire,2025-03-29,Contratação,,Operations,,Analista de Operações,,Junior,,4420.88
+MOV-00471,VLT-0471,Hire,2020-02-28,Contratação,,Operations,,Analista Financeiro,,Mid,,7188.07
+MOV-00635,VLT-0635,Hire,2023-04-20,Contratação,,Operations,,Tesoureiro,,Junior,,4272.8
+MOV-00893,VLT-0087,Salary Increase,04/10/2025,Promoção de cargo,Operations,Operations,Coordenador de Projetos,Coordenador de Projetos,Mid,Mid,5858.41,6941.73
+MOV-00012,VLT-0012,Hire,2021-02-18,Contratação,,People & Culture,,HRBP,,Senior,,"8306,68"
+MOV-00292,VLT-0292,Hire,2019-04-22,Contratação,,Technology,,DevOps,,Senior,,11857.7
+MOV-00518,VLT-0518,Hire,2020-05-06,Contratação,,Product,,Product Manager,,Mid,,8302.11
+MOV-00613,VLT-0613,Hire,2022-12-22,Contratação,,Sales,,Key Account,,Mid,,5707.66
+MOV-00970,VLT-0095,Salary Increase,2025-03-21,Reajuste anual,Operations,Operations,Coordenador de Projetos,Coordenador de Projetos,Mid,Mid,6549.97,8415.23
+MOV-00646,VLT-0646,Hire,2020-07-26,Contratação,,Operations,,Coordenador de Projetos,,Junior,,3678.84
+MOV-00975,VLT-0041,Salary Increase,2025-08-28,Reajuste anual,Technology,Technology,QA,QA,Senior,Senior,12138.38,15750.97
+MOV-00410,VLT-0410,Hire,2019-06-11,Contratação,,Product,,Product Designer,,Senior,,12421.74
+MOV-00126,VLT-0126,Hire,2020-06-26,Contratação,,Operations,,Analista de Processos,,Mid,,"7070,11"
+MOV-00802,VLT-0646,Promotion,2021-12-21,Mérito,Operations,Operations,Coordenador de Projetos,Coordenador de Projetos,Junior,Mid,3678.84,4484.16
+MOV-00434,VLT-0434,Hire,2022-02-26,Contratação,,Sales,,Key Account,,Senior,,9334.41
+MOV-00262,VLT-0262,Hire,2019-07-03,Contratação,,People & Culture,,Analista de T&D,,Junior,,3999.59
+MOV-00921,VLT-0313,Promotion,2021-05-04,Expansão de time,People & Culture,People & Culture,Analista de RH,Analista de RH,Specialist,Gestor,10262.99,13023.41
+MOV-00104,VLT-0104,Hire,2024-03-17,Contratação,,Product,,Product Analyst,,Specialist,,14923.91
+MOV-00679,VLT-0185,Termination,2022-08-25,Involuntary Termination,Operations,,Coordenador de Projetos,,Mid,,6623.99,
+MOV-00698,VLT-0306,Termination,2024-11-04,Involuntary Termination,Operations,,Tesoureiro,,Mid,,7615.82,
+MOV-00099,VLT-0099,Hire,2020-05-19,Contratação,,Operations,,Tesoureiro,,Specialist,,12197.49
+MOV-00211,VLT-0211,Hire,2019-01-14,Contratação,,Sales,,Executivo de Vendas,,Junior,,4013.9
+MOV-00445,VLT-0445,Hire,2023-07-18,Contratação,,Sales,,Gerente Comercial,,Senior,,9667.67
+MOV-00184,VLT-0184,Hire,2018-07-16,Contratação,,Operations,,Analista Financeiro,,Mid,,"6163,79"
+MOV-00218,VLT-0218,Hire,2023-02-23,Contratação,,Product,,Product Designer,,Mid,,9050.23
+MOV-00121,VLT-0121,Hire,2018-03-17,Contratação,,People & Culture,,HRBP,,Junior,,3651.24
+MOV-00644,VLT-0644,Hire,16/10/2020,Contratação,,Operations,,Auxiliar Contábil,,Specialist,,12235.13
+MOV-00843,VLT-0342,Salary Increase,2024-12-29,Reajuste anual,Operations,Operations,Controller,Controller,Mid,Mid,7497.45,8385.11
+MOV-00708,VLT-0372,Termination,2025-08-10,Voluntary Resignation,People & Culture,,Recrutador,,Senior,,7857.82,
+MOV-00269,VLT-0269,Hire,2023-08-16,Contratação,,People & Culture,,HRBP,,Junior,,3704.72
+MOV-00293,VLT-0293,Hire,31/03/2018,Contratação,,Operations,,Coordenador de Projetos,,Mid,,6552.05
+MOV-00556,VLT-0556,Hire,06/04/2023,Contratação,,People & Culture,,Analista de T&D,,Senior,,8548.03
+MOV-00073,VLT-0073,Hire,2023-04-08,Contratação,,People & Culture,,Analista de T&D,,Mid,,5374.83
+MOV-00749,VLT-0597,Termination,2024-07-17,Terminated for Cause,Technology,,DevOps,,Mid,,7440.49,
+MOV-00663,VLT-0072,Termination,2022-06-15,Voluntary Resignation,Product,,Product Analyst,,Mid,,9127.98,
+MOV-00021,VLT-0021,Hire,2019-03-06,Contratação,,Product,,Product Analyst,,Mid,,9486.41
+MOV-00248,VLT-0248,Hire,2021-07-01,Contratação,,Technology,,Analista de Dados,,Junior,,4150.67
+MOV-00256,VLT-0256,Hire,2020-08-12,Contratação,,People & Culture,,Analista de RH,,Mid,,"5990,77"
+MOV-00438,VLT-0438,Hire,2022-12-01,Contratação,,Sales,,Executivo de Vendas,,Specialist,,10614.88
+MOV-00229,VLT-0229,Hire,2022-03-02,Contratação,,Sales,,Key Account,,Mid,,6922.88
+MOV-00341,VLT-0341,Hire,2024-08-27,Contratação,,Sales,,SDR,,Mid,,6438.13
+MOV-00297,VLT-0297,Hire,2023-09-26,Contratação,,Technology,,QA,,Mid,,6521.42
+MOV-00212,VLT-0212,Hire,09/05/2021,Contratação,,Operations,,Tesoureiro,,Mid,,7122.8
+MOV-00597,VLT-0597,Hire,2019-09-06,Contratação,,Technology,,DevOps,,Mid,,7440.49
+MOV-00766,VLT-0086,Salary Increase,2025-05-01,Promoção de cargo,Sales,Sales,Key Account,Key Account,Senior,Senior,9843.44,12318.66
+MOV-00332,VLT-0332,Hire,2019-10-24,Contratação,,Product,,Product Analyst,,Mid,,8171.15
+MOV-00666,VLT-0097,Termination,2023-03-06,Terminated for Cause,Technology,,QA,,Senior,,10189.54,
+MOV-00987,VLT-0528,Termination,2023-03-29,Involuntary Termination,People & Culture,,Analista de RH,,Mid,,6128.4,
+MOV-00397,VLT-0397,Hire,2021-05-18,Contratação,,Operations,,Analista de Processos,,Mid,,7045.12
+MOV-00805,VLT-0179,Promotion,2023-11-03,Mérito,People & Culture,People & Culture,HRBP,HRBP,Mid,Senior,5496.46,6990.29
+MOV-00131,VLT-0131,Hire,2018-04-15,Contratação,,People & Culture,,Recrutador,,Mid,,5637.03
+MOV-00238,VLT-0238,Hire,2018-01-10,Contratação,,Product,,Product Manager,,Senior,,12240.61
+MOV-00452,VLT-0452,Hire,2022-11-26,Contratação,,People & Culture,,Analista de RH,,Mid,,5637.65
+MOV-00578,VLT-0578,Hire,2022-08-29,Contratação,,Sales,,Key Account,,Junior,,3936.94
+MOV-00075,VLT-0075,Hire,2019-03-15,Contratação,,Product,,Product Analyst,,Junior,,5808.13
+MOV-00642,VLT-0642,Hire,2024-07-31,Contratação,,Product,,Product Analyst,,Specialist,,13112.56
+MOV-00395,VLT-0395,Hire,01/10/2021,Contratação,,Product,,Product Analyst,,Junior,,5168.82
+MOV-00109,VLT-0109,Hire,2022-05-30,Contratação,,Sales,,Executivo de Vendas,,Mid,,6330.0
+MOV-00634,VLT-0634,Hire,2020-12-14,Contratação,,Operations,,Analista de Processos,,Mid,,6892.54
+MOV-00365,VLT-0365,Hire,2019-07-10,Contratação,,Sales,,Gerente Comercial,,Senior,,9752.75
+MOV-00899,VLT-0197,Promotion,2020-08-28,Expansão de time,People & Culture,People & Culture,Analista de T&D,Analista de T&D,Specialist,Gestor,10918.77,14162.96
+MOV-00917,VLT-0429,Salary Increase,03/06/2022,Equiparação salarial,Technology,Technology,DevOps,DevOps,Mid,Mid,8179.44,9181.2
+MOV-00906,VLT-0315,Promotion,2025-07-19,Mérito,Operations,Operations,Analista Financeiro,Analista Financeiro,Mid,Senior,7710.93,9529.94
+MOV-00726,VLT-0499,Termination,2021-06-14,Involuntary Termination,Operations,,Analista de Processos,,Mid,,6025.59,
+MOV-00240,VLT-0240,Hire,2023-07-17,Contratação,,Sales,,Executivo de Vendas,,Mid,,5932.14
+MOV-00902,VLT-0261,Transfer,2022-09-20,Reestruturação organizacional,Operations,Legal,Auxiliar Contábil,Advogado,Senior,Senior,10110.34,10110.34
+MOV-00081,VLT-0081,Hire,2020-12-31,Contratação,,Operations,,Auxiliar Contábil,,Mid,,7535.01
+MOV-00870,VLT-0137,Promotion,2025-06-16,Mérito,Operations,Operations,Analista de Processos,Analista de Processos,Junior,Mid,4503.86,5769.62
+MOV-00483,VLT-0483,Hire,2019-07-18,Contratação,,Product,,Product Analyst,,Junior,,"5208,03"
+MOV-00555,VLT-0555,Hire,2018-01-12,Contratação,,Operations,,Analista de Operações,,Junior,,3900.18
+MOV-00608,VLT-0608,Hire,2019-04-22,Contratação,,Operations,,Analista Financeiro,,Senior,,10102.24
+MOV-00721,VLT-0438,Termination,2023-08-26,Voluntary Resignation,Sales,,Executivo de Vendas,,Specialist,,10614.88,
+MOV-00356,VLT-0356,Hire,2023-07-24,Contratação,,Operations,,Analista de Processos,,Mid,,6787.98
+MOV-00492,VLT-0492,Hire,2024-05-03,Contratação,,Technology,,Arquiteto de Software,,Senior,,11178.52
+MOV-00061,VLT-0061,Hire,2025-04-12,Contratação,,Technology,,DevOps,,Junior,,4724.46
+MOV-00786,VLT-0382,Transfer,2025-10-24,Reestruturação organizacional,Operations,Operations,Coordenador de Projetos,Tesoureiro,Mid,Mid,6354.55,6354.55
+MOV-00713,VLT-0402,Termination,2021-12-20,Terminated for Cause,People & Culture,,HRBP,,Senior,,8810.2,
+MOV-00015,VLT-0015,Hire,2023-11-27,Contratação,,Operations,,Controller,,Junior,,4619.32
+MOV-00941,VLT-0479,Transfer,2024-10-29,Necessidade da área,People & Culture,Legal,Analista de RH,Analista Jurídico,Senior,Senior,9014.29,9014.29
+MOV-00092,VLT-0092,Hire,2024-04-01,Contratação,,Sales,,Executivo de Vendas,,Mid,,5827.95
+MOV-00458,VLT-0458,Hire,2023-09-16,Contratação,,Operations,,Coordenador de Projetos,,Junior,,3997.6
+MOV-00468,VLT-0468,Hire,2022-12-14,Contratação,,Sales,,Executivo de Vendas,,Junior,,4259.32
+MOV-00124,VLT-0124,Hire,2018-06-11,Contratação,,Technology,,Arquiteto de Software,,Junior,,"4186,91"
+MOV-00968,VLT-0525,Salary Increase,2025-05-04,Reajuste anual,Operations,Operations,Analista de Operações,Analista de Operações,Mid,Mid,6338.97,7063.79
+MOV-00734,VLT-0533,Termination,2021-09-30,Involuntary Termination,People & Culture,,HRBP,,Junior,,3318.47,
+MOV-00108,VLT-0108,Hire,2018-12-09,Contratação,,Operations,,Auxiliar Contábil,,Specialist,,11580.2
+MOV-00862,VLT-0557,Promotion,2024-02-26,Substituição de gestor,Technology,Technology,DevOps,DevOps,Senior,Specialist,10679.27,11436.98
+MOV-00866,VLT-0538,Transfer,23/04/2024,Necessidade da área,People & Culture,Legal,HRBP,Advogado,Senior,Senior,9503.29,9503.29
+MOV-00228,VLT-0228,Hire,2024-01-09,Contratação,,People & Culture,,HRBP,,Senior,,9283.0
+MOV-00011,VLT-0011,Hire,2020-12-05,Contratação,,Product,,Product Manager,,Specialist,,14189.05
+MOV-00710,VLT-0381,Termination,2024-10-19,Voluntary Resignation,Technology,,QA,,Senior,,11875.01,
+MOV-00840,VLT-0235,Transfer,2024-01-01,Necessidade da área,People & Culture,Operations,Recrutador,Analista de Operações,Mid,Mid,5185.63,5185.63
+MOV-00369,VLT-0369,Hire,2018-07-07,Contratação,,Technology,,Desenvolvedor,,Senior,,10988.03
+MOV-00367,VLT-0367,Hire,2020-04-09,Contratação,,Technology,,Arquiteto de Software,,Junior,,4091.96
+MOV-00863,VLT-0200,Promotion,2019-12-28,Expansão de time,Operations,Operations,Controller,Controller,Specialist,Gestor,12687.02,14546.07
+MOV-00616,VLT-0616,Hire,2023-02-09,Contratação,,Product,,Product Designer,,Senior,,12773.29
+MOV-00673,VLT-0128,Termination,2025-05-28,Voluntary Resignation,Operations,,Tesoureiro,,Mid,,6640.12,
+MOV-00057,VLT-0057,Hire,08/09/2022,Contratação,,Sales,,Gerente Comercial,,Mid,,5884.17
+MOV-00185,VLT-0185,Hire,2022-05-05,Contratação,,Operations,,Coordenador de Projetos,,Mid,,6623.99
+MOV-00664,VLT-0091,Termination,2024-09-06,Terminated for Cause,People & Culture,,HRBP,,Specialist,,9668.79,
+MOV-00044,VLT-0044,Hire,2020-11-19,Contratação,,Technology,,Desenvolvedor,,Junior,,5045.45
+MOV-00728,VLT-0504,Termination,2025-04-11,Voluntary Resignation,Sales,,Gerente Comercial,,Senior,,"8969,54",
+MOV-00547,VLT-0547,Hire,2023-06-19,Contratação,,People & Culture,,Recrutador,,Senior,,8037.88
+MOV-00905,VLT-0468,Promotion,2025-06-26,Reestruturação,Sales,Sales,Executivo de Vendas,Executivo de Vendas,Junior,Mid,4259.32,4870.02
+MOV-00095,VLT-0095,Hire,2023-09-06,Contratação,,Operations,,Coordenador de Projetos,,Mid,,6549.97
+MOV-00919,VLT-0647,Promotion,2025-09-19,Expansão de time,Operations,Operations,Analista de Operações,Analista de Operações,Junior,Mid,4171.18,4633.72
+MOV-00486,VLT-0486,Hire,2023-03-13,Contratação,,Operations,,Auxiliar Contábil,,Mid,,7462.02
+MOV-00618,VLT-0618,Hire,2024-10-31,Contratação,,Operations,,Analista de Processos,,Specialist,,12008.18
+MOV-00888,VLT-0146,Salary Increase,2025-07-30,Equiparação salarial,Operations,Operations,Analista de Operações,Analista de Operações,Mid,Mid,5822.77,6842.22
+MOV-00842,VLT-0439,Promotion,2025-01-03,Reestruturação,Operations,Operations,Analista de Processos,Analista de Processos,Mid,Senior,6219.89,6761.7
+MOV-00567,VLT-0567,Hire,22/05/2018,Contratação,,Operations,,Tesoureiro,,Mid,,6141.57
+MOV-00033,VLT-0033,Hire,2021-01-05,Contratação,,Sales,,Key Account,,Junior,,3856.02
+MOV-00197,VLT-0197,Hire,2019-06-24,Contratação,,People & Culture,,Analista de T&D,,Specialist,,10918.77
+MOV-00835,VLT-0421,Promotion,2024-08-23,Substituição de gestor,People & Culture,People & Culture,Analista de RH,Analista de RH,Mid,Senior,6052.62,6372.52
+MOV-00790,VLT-0505,Transfer,2025-08-26,Reestruturação organizacional,Operations,Sales,Analista de Operações,Key Account,Mid,Mid,7064.67,7064.67
+MOV-00312,VLT-0312,Hire,2023-07-27,Contratação,,Sales,,Executivo de Vendas,,Junior,,3897.66
+MOV-00750,VLT-0599,Termination,2025-08-28,Voluntary Resignation,Sales,,Gerente Comercial,,Mid,,6713.43,
+MOV-00864,VLT-0039,Transfer,2025-07-09,Reestruturação organizacional,People & Culture,Logistics,Analista de RH,Analista de Logística,Junior,Junior,3636.39,3636.39
+MOV-00627,VLT-0627,Hire,2024-10-07,Contratação,,Operations,,Coordenador de Projetos,,Senior,,10491.69
+MOV-00119,VLT-0119,Hire,05/07/2020,Contratação,,Technology,,Arquiteto de Software,,Specialist,,11763.27
+MOV-00825,VLT-0322,Salary Increase,2025-02-07,Promoção de cargo,Product,Product,Product Designer,Product Designer,Mid,Mid,9089.7,10284.1
+MOV-00946,VLT-0543,Transfer,2025-05-22,Reestruturação organizacional,Operations,Sales,Tesoureiro,Gerente Comercial,Junior,Junior,3843.3,3843.3
+MOV-00506,VLT-0506,Hire,2018-01-16,Contratação,,Operations,,Coordenador de Projetos,,Mid,,6130.56
+MOV-00298,VLT-0298,Hire,2021-09-29,Contratação,,Technology,,DevOps,,Mid,,7684.77
+MOV-00295,VLT-0295,Hire,2019-10-26,Contratação,,Technology,,Desenvolvedor,,Mid,,7729.99
+MOV-00582,VLT-0582,Hire,2023-09-06,Contratação,,Operations,,Coordenador de Projetos,,Senior,,9926.45
+MOV-00774,VLT-0296,Salary Increase,2024-06-10,Equiparação salarial,Operations,Operations,Coordenador de Projetos,Coordenador de Projetos,Mid,Mid,7319.38,8268.41
+MOV-00548,VLT-0548,Hire,2018-08-14,Contratação,,Operations,,Analista Financeiro,,Mid,,7594.95
+MOV-00505,VLT-0505,Hire,2025-01-31,Contratação,,Operations,,Analista de Operações,,Mid,,7064.67
+MOV-00117,VLT-0117,Hire,2019-01-05,Contratação,,Product,,Product Designer,,Mid,,9239.17
+MOV-00221,VLT-0221,Hire,01/12/2020,Contratação,,Operations,,Coordenador de Projetos,,Junior,,3920.9
+MOV-00280,VLT-0280,Hire,2020-07-19,Contratação,,People & Culture,,Analista de RH,,Junior,,"3436,24"
+MOV-00379,VLT-0379,Hire,2023-07-19,Contratação,,Sales,,Executivo de Vendas,,Mid,,6333.58
+MOV-00453,VLT-0453,Hire,2022-12-05,Contratação,,Operations,,Coordenador de Projetos,,Junior,,4084.01
+MOV-00495,VLT-0495,Hire,2022-06-07,Contratação,,Product,,Product Manager,,Senior,,13852.06
+MOV-00181,VLT-0181,Hire,2019-07-01,Contratação,,Operations,,Auxiliar Contábil,,Senior,,11100.65
+MOV-00022,VLT-0022,Hire,2020-01-21,Contratação,,Product,,Product Analyst,,Senior,,13417.3
+MOV-00322,VLT-0322,Hire,2023-10-21,Contratação,,Product,,Product Designer,,Mid,,9089.7
+MOV-00170,VLT-0170,Hire,2020-02-19,Contratação,,Operations,,Analista de Processos,,Senior,,10221.26
+MOV-00971,VLT-0114,Promotion,2021-04-12,Substituição de gestor,Operations,Operations,Analista de Operações,Analista de Operações,Mid,Senior,6082.59,7728.43
+MOV-00801,VLT-0216,Promotion,2025-02-24,Substituição de gestor,Operations,Operations,Tesoureiro,Tesoureiro,Senior,Specialist,9072.89,10862.75
+MOV-00827,VLT-0198,Salary Increase,2019-11-19,Reajuste anual,Technology,Technology,DevOps,DevOps,Junior,Junior,4126.1,5034.85
+MOV-00267,VLT-0267,Hire,2021-09-08,Contratação,,Operations,,Analista de Operações,,Junior,,3652.33
+MOV-00454,VLT-0454,Hire,2024-10-13,Contratação,,Operations,,Analista de Operações,,Mid,,6271.07
+MOV-00154,VLT-0154,Hire,2018-07-27,Contratação,,People & Culture,,Analista de RH,,Junior,,3646.01
+MOV-00747,VLT-0591,Termination,21/03/2024,Involuntary Termination,Sales,,Executivo de Vendas,,Mid,,6051.98,
+MOV-00209,VLT-0209,Hire,2024-12-07,Contratação,,Technology,,Analista de Dados,,Junior,,4429.46
+MOV-00694,VLT-0265,Termination,10/03/2022,Voluntary Resignation,People & Culture,,Analista de RH,,Senior,,8425.74,
+MOV-00271,VLT-0271,Hire,2023-03-07,Contratação,,Sales,,SDR,,Junior,,3908.05
+MOV-00592,VLT-0592,Hire,2018-02-16,Contratação,,People & Culture,,Analista de RH,,Mid,,5342.1
+MOV-00430,VLT-0430,Hire,2021-01-31,Contratação,,Sales,,Key Account,,Mid,,5830.88
+MOV-00687,VLT-0240,Termination,2024-03-22,Voluntary Resignation,Sales,,Executivo de Vendas,,Mid,,5932.14,
+MOV-00964,VLT-0016,Salary Increase,2024-07-01,Equiparação salarial,Operations,Operations,Analista de Processos,Analista de Processos,Mid,Mid,5969.72,7601.76
+MOV-00153,VLT-0153,Hire,23/02/2019,Contratação,,Operations,,Auxiliar Contábil,,Mid,,7664.2
+MOV-00072,VLT-0072,Hire,2021-04-25,Contratação,,Product,,Product Analyst,,Mid,,9127.98
+MOV-00849,VLT-0201,Promotion,2025-09-04,Expansão de time,Operations,Operations,Tesoureiro,Tesoureiro,Mid,Senior,6438.88,7805.29
+MOV-00190,VLT-0190,Hire,2019-09-06,Contratação,,Sales,,Key Account,,Senior,,9873.95
+MOV-00872,VLT-0221,Promotion,09/04/2025,Reestruturação,Operations,Operations,Coordenador de Projetos,Coordenador de Projetos,Junior,Mid,3920.9,4227.05
+MOV-00142,VLT-0142,Hire,2024-09-07,Contratação,,Product,,Product Manager,,Mid,,8429.6
+MOV-00313,VLT-0313,Hire,2018-06-20,Contratação,,People & Culture,,Analista de RH,,Specialist,,10262.99
+MOV-00595,VLT-0595,Hire,10/09/2023,Contratação,,Operations,,Tesoureiro,,Mid,,7209.31
+MOV-00203,VLT-0203,Hire,2019-01-16,Contratação,,Product,,Product Analyst,,Junior,,"5316,89"
+MOV-00516,VLT-0516,Hire,2019-06-03,Contratação,,Sales,,Key Account,,Junior,,3464.23
+MOV-00227,VLT-0227,Hire,2018-08-31,Contratação,,People & Culture,,Analista de RH,,Mid,,6109.58
+MOV-00110,VLT-0110,Hire,2018-08-17,Contratação,,Product,,Product Manager,,Specialist,,13275.23
+MOV-00234,VLT-0234,Hire,2020-04-15,Contratação,,Technology,,Desenvolvedor,,Specialist,,14405.51
+MOV-00793,VLT-0474,Salary Increase,2025-02-25,Reajuste anual,People & Culture,People & Culture,HRBP,HRBP,Junior,Junior,3573.49,4291.78
+MOV-00358,VLT-0358,Hire,2020-01-26,Contratação,,People & Culture,,Analista de T&D,,Mid,,6039.02
+MOV-00485,VLT-0485,Hire,2021-04-09,Contratação,,Product,,Product Analyst,,Junior,,5844.39
+MOV-00690,VLT-0253,Termination,2021-07-20,Voluntary Resignation,People & Culture,,HRBP,,Senior,,8224.17,
+MOV-00222,VLT-0222,Hire,2018-11-10,Contratação,,Operations,,Auxiliar Contábil,,Specialist,,11966.44
+MOV-00732,VLT-0528,Termination,2023-03-29,Involuntary Termination,People & Culture,,Analista de RH,,Mid,,6128.4,
+MOV-00088,VLT-0088,Hire,2023-04-06,Contratação,,People & Culture,,HRBP,,Junior,,3829.53
+MOV-00123,VLT-0123,Hire,2020-07-12,Contratação,,Product,,Product Manager,,Junior,,5242.95
+MOV-00846,VLT-0088,Salary Increase,2025-09-16,Promoção de cargo,People & Culture,People & Culture,HRBP,HRBP,Junior,Junior,3829.53,4172.29
+MOV-00303,VLT-0303,Hire,01/06/2020,Contratação,,Technology,,QA,,Mid,,6636.4
+MOV-00204,VLT-0204,Hire,2025-05-13,Contratação,,Technology,,Arquiteto de Software,,Senior,,12331.86
+MOV-00647,VLT-0647,Hire,2023-09-23,Contratação,,Operations,,Analista de Operações,,Junior,,4171.18
+MOV-00839,VLT-0331,Salary Increase,23/05/2024,Equiparação salarial,Product,Product,Product Designer,Product Designer,Junior,Junior,5057.32,5513.87
+MOV-00186,VLT-0186,Hire,2018-07-22,Contratação,,People & Culture,,HRBP,,Senior,,7742.31
+MOV-00129,VLT-0129,Hire,2019-09-05,Contratação,,Technology,,QA,,Specialist,,13185.38
+MOV-00588,VLT-0588,Hire,13/07/2024,Contratação,,Technology,,Analista de Dados,,Senior,,10125.0
+MOV-00245,VLT-0245,Hire,2022-05-21,Contratação,,Operations,,Tesoureiro,,Senior,,9491.41
+MOV-00428,VLT-0428,Hire,04/11/2020,Contratação,,Sales,,Executivo de Vendas,,Mid,,6990.1
+MOV-00393,VLT-0393,Hire,2020-11-22,Contratação,,Operations,,Analista de Processos,,Junior,,4098.84
+MOV-00523,VLT-0523,Hire,2018-10-02,Contratação,,People & Culture,,HRBP,,Junior,,4017.29
+MOV-00289,VLT-0289,Hire,2019-11-25,Contratação,,Operations,,Coordenador de Projetos,,Senior,,9772.39
+MOV-00114,VLT-0114,Hire,2020-09-04,Contratação,,Operations,,Analista de Operações,,Mid,,6082.59
+MOV-00460,VLT-0460,Hire,2019-11-16,Contratação,,Operations,,Controller,,Senior,,11510.05
+MOV-00277,VLT-0277,Hire,2021-07-25,Contratação,,Operations,,Analista de Processos,,Junior,,3637.52
+MOV-00558,VLT-0558,Hire,2021-10-03,Contratação,,Operations,,Tesoureiro,,Mid,,6846.94
+MOV-00639,VLT-0639,Hire,2020-09-15,Contratação,,Operations,,Analista de Operações,,Junior,,4015.64
+MOV-00136,VLT-0136,Hire,2024-11-15,Contratação,,Sales,,Executivo de Vendas,,Junior,,3582.01
+MOV-00504,VLT-0504,Hire,2022-02-20,Contratação,,Sales,,Gerente Comercial,,Senior,,"8969,54"
+MOV-00489,VLT-0489,Hire,2024-07-12,Contratação,,Product,,Product Designer,,Mid,,7741.52
+MOV-00253,VLT-0253,Hire,2020-12-22,Contratação,,People & Culture,,HRBP,,Senior,,8224.17
+MOV-00455,VLT-0455,Hire,2018-05-28,Contratação,,Product,,Product Manager,,Senior,,13087.4
+MOV-00755,VLT-0616,Termination,2023-11-16,Voluntary Resignation,Product,,Product Designer,,Senior,,12773.29,
+MOV-00579,VLT-0579,Hire,2021-07-12,Contratação,,Operations,,Auxiliar Contábil,,Junior,,4773.35
+MOV-00162,VLT-0162,Hire,2020-11-13,Contratação,,Sales,,SDR,,Junior,,4128.16
+MOV-00912,VLT-0277,Promotion,2025-04-06,Reestruturação,Operations,Operations,Analista de Processos,Analista de Processos,Junior,Mid,3637.52,4043.17
+MOV-00345,VLT-0345,Hire,2020-03-19,Contratação,,Product,,Product Analyst,,Specialist,,13322.07
+MOV-00474,VLT-0474,Hire,2021-01-16,Contratação,,People & Culture,,HRBP,,Junior,,3573.49
+MOV-00426,VLT-0426,Hire,2023-03-24,Contratação,,Operations,,Tesoureiro,,Mid,,7487.65
+MOV-00191,VLT-0191,Hire,2021-01-29,Contratação,,People & Culture,,Analista de RH,,Senior,,7681.24
+MOV-00440,VLT-0440,Hire,2020-08-18,Contratação,,Operations,,Analista de Operações,,Mid,,7164.11
+MOV-00219,VLT-0219,Hire,2022-09-20,Contratação,,Operations,,Auxiliar Contábil,,Senior,,9681.18
+MOV-00373,VLT-0373,Hire,2022-06-15,Contratação,,Product,,Product Designer,,Specialist,,13294.8
+MOV-00934,VLT-0008,Promotion,2024-04-14,Reestruturação,Operations,Operations,Analista Financeiro,Analista Financeiro,Mid,Senior,7511.25,9498.9
+MOV-00386,VLT-0386,Hire,2019-07-04,Contratação,,Operations,,Controller,,Specialist,,11916.71
+MOV-00141,VLT-0141,Hire,2023-03-29,Contratação,,Sales,,Gerente Comercial,,Mid,,6741.21
+MOV-00421,VLT-0421,Hire,2022-03-26,Contratação,,People & Culture,,Analista de RH,,Mid,,6052.62
+MOV-00686,VLT-0237,Termination,2024-12-26,Voluntary Resignation,Technology,,QA,,Mid,,8155.23,
+MOV-00574,VLT-0574,Hire,2019-04-18,Contratação,,Technology,,Analista de Dados,,Specialist,,14338.87
+MOV-00027,VLT-0027,Hire,2023-04-29,Contratação,,Technology,,DevOps,,Mid,,6809.32
+MOV-00762,VLT-0635,Termination,2024-01-03,Involuntary Termination,Operations,,Tesoureiro,,Junior,,4272.8,
+MOV-00376,VLT-0376,Hire,2021-02-28,Contratação,,Sales,,Gerente Comercial,,Specialist,,11614.43
+MOV-00798,VLT-0618,Promotion,2025-07-23,Mérito,Operations,Operations,Analista de Processos,Analista de Processos,Specialist,Gestor,12008.18,13656.58
+MOV-00623,VLT-0623,Hire,2021-11-17,Contratação,,Operations,,Analista Financeiro,,Specialist,,11856.75
+MOV-00263,VLT-0263,Hire,2023-04-08,Contratação,,Technology,,Arquiteto de Software,,Junior,,4506.91
+MOV-00876,VLT-0344,Salary Increase,11/04/2021,Equiparação salarial,Sales,Sales,Key Account,Key Account,Mid,Mid,6659.23,8527.86
+MOV-00658,VLT-0054,Termination,2025-04-29,Terminated for Cause,People & Culture,,Analista de RH,,Senior,,9641.01,
+MOV-00115,VLT-0115,Hire,2021-03-19,Contratação,,Product,,Product Designer,,Senior,,12614.19
+MOV-00607,VLT-0607,Hire,2020-01-12,Contratação,,Operations,,Tesoureiro,,Senior,,10418.16
+MOV-00479,VLT-0479,Hire,2021-06-25,Contratação,,People & Culture,,Analista de RH,,Senior,,9014.29
+MOV-00598,VLT-0598,Hire,2019-02-19,Contratação,,Sales,,Gerente Comercial,,Junior,,3423.7
+MOV-00024,VLT-0024,Hire,22/10/2020,Contratação,,Operations,,Coordenador de Projetos,,Senior,,9066.96
+MOV-00071,VLT-0071,Hire,2018-11-26,Contratação,,Technology,,QA,,Senior,,9737.14
+MOV-00315,VLT-0315,Hire,2025-01-04,Contratação,,Operations,,Analista Financeiro,,Mid,,7710.93
+MOV-00150,VLT-0150,Hire,2025-06-23,Contratação,,Operations,,Controller,,Mid,,7417.86
+MOV-00326,VLT-0326,Hire,2018-03-24,Contratação,,Sales,,SDR,,Mid,,6076.17
+MOV-00329,VLT-0329,Hire,2018-08-11,Contratação,,Operations,,Coordenador de Projetos,,Mid,,6902.43
+MOV-00606,VLT-0606,Hire,2023-12-26,Contratação,,Technology,,QA,,Senior,,11350.71
+MOV-00354,VLT-0354,Hire,2023-10-22,Contratação,,Operations,,Controller,,Senior,,11126.07
+MOV-00501,VLT-0501,Hire,2023-09-24,Contratação,,Sales,,Gerente Comercial,,Junior,,3816.06
+MOV-00883,VLT-0073,Promotion,2025-05-15,Reestruturação,People & Culture,People & Culture,Analista de T&D,Analista de T&D,Mid,Senior,5374.83,5710.11
+MOV-00306,VLT-0306,Hire,2024-03-19,Contratação,,Operations,,Tesoureiro,,Mid,,7615.82
+MOV-00966,VLT-0523,Transfer,2019-08-19,Pedido do colaborador,People & Culture,Technology,HRBP,DevOps,Junior,Junior,4017.29,4017.29
+MOV-00860,VLT-0003,Promotion,08/02/2025,Reestruturação,Sales,Sales,Executivo de Vendas,Executivo de Vendas,Senior,Specialist,9339.83,11374.48
+MOV-00812,VLT-0522,Transfer,13/08/2025,Pedido do colaborador,Technology,People & Culture,Arquiteto de Software,HRBP,Mid,Mid,6626.09,6626.09
+MOV-00335,VLT-0335,Hire,2022-01-31,Contratação,,People & Culture,,HRBP,,Senior,,9120.27
+MOV-00103,VLT-0103,Hire,23/01/2023,Contratação,,People & Culture,,Analista de T&D,,Mid,,5566.68
+MOV-00047,VLT-0047,Hire,2018-05-11,Contratação,,Operations,,Auxiliar Contábil,,Junior,,4465.09
+MOV-00861,VLT-0587,Promotion,2025-09-26,Expansão de time,Technology,Technology,DevOps,DevOps,Senior,Specialist,10965.56,14038.51
+MOV-00442,VLT-0442,Hire,2020-08-09,Contratação,,Product,,Product Manager,,Specialist,,14329.1
+MOV-00836,VLT-0640,Promotion,2025-10-03,Reestruturação,People & Culture,People & Culture,Recrutador,Recrutador,Junior,Mid,4012.78,4581.45
+MOV-00054,VLT-0054,Hire,2020-08-04,Contratação,,People & Culture,,Analista de RH,,Senior,,9641.01
+MOV-00605,VLT-0605,Hire,2022-11-19,Contratação,,Operations,,Analista de Processos,,Mid,,6450.48
+MOV-00319,VLT-0319,Hire,11/02/2022,Contratação,,People & Culture,,Analista de RH,,Mid,,6367.79
+MOV-00177,VLT-0177,Hire,2023-12-05,Contratação,,Operations,,Analista de Processos,,Mid,,5998.9
+MOV-00342,VLT-0342,Hire,29/03/2023,Contratação,,Operations,,Controller,,Mid,,7497.45
+MOV-00381,VLT-0381,Hire,2023-07-29,Contratação,,Technology,,QA,,Senior,,11875.01
+MOV-00904,VLT-0446,Promotion,2023-06-02,Mérito,Operations,Operations,Tesoureiro,Tesoureiro,Mid,Senior,6596.96,7801.25
+MOV-00090,VLT-0090,Hire,2023-12-14,Contratação,,Operations,,Coordenador de Projetos,,Junior,,4427.9
+MOV-00638,VLT-0638,Hire,2022-06-29,Contratação,,Product,,Product Designer,,Specialist,,14920.66
+MOV-00772,VLT-0486,Salary Increase,2023-10-25,Mérito,Operations,Operations,Auxiliar Contábil,Auxiliar Contábil,Mid,Mid,7462.02,7872.81
+MOV-00233,VLT-0233,Hire,2022-11-24,Contratação,,Operations,,Analista de Processos,,Junior,,4508.87
+MOV-00804,VLT-0170,Salary Increase,2022-08-10,Mérito,Operations,Operations,Analista de Processos,Analista de Processos,Senior,Senior,10221.26,12020.31
+MOV-00276,VLT-0276,Hire,2024-11-25,Contratação,,Product,,Product Designer,,Specialist,,13204.68
+MOV-00464,VLT-0464,Hire,2021-10-09,Contratação,,Operations,,Auxiliar Contábil,,Senior,,9599.74
+MOV-00525,VLT-0525,Hire,2024-05-03,Contratação,,Operations,,Analista de Operações,,Mid,,6338.97
+MOV-00799,VLT-0103,Promotion,2023-08-19,Substituição de gestor,People & Culture,People & Culture,Analista de T&D,Analista de T&D,Mid,Senior,5566.68,7055.86
+MOV-00671,VLT-0117,Termination,2025-06-14,Terminated for Cause,Product,,Product Designer,,Mid,,9239.17,
+MOV-00260,VLT-0260,Hire,2024-07-16,Contratação,,Product,,Product Designer,,Specialist,,16041.65
+MOV-00164,VLT-0164,Hire,15/01/2024,Contratação,,Operations,,Analista de Processos,,Senior,,10646.9
+MOV-00807,VLT-0320,Transfer,19/04/2025,Reestruturação organizacional,People & Culture,Operations,HRBP,Analista de Processos,Senior,Senior,8107.43,8107.43
+MOV-00986,VLT-0153,Termination,2020-01-12,Voluntary Resignation,Operations,,Auxiliar Contábil,,Mid,,7664.2,
+MOV-00787,VLT-0496,Salary Increase,2023-05-28,Reajuste anual,Operations,Operations,Analista Financeiro,Analista Financeiro,Junior,Junior,4399.44,5074.61
+MOV-00484,VLT-0484,Hire,2021-12-09,Contratação,,Product,,Product Designer,,Junior,,5347.64
+MOV-00763,VLT-0649,Termination,2021-07-29,Voluntary Resignation,Product,,Product Analyst,,Senior,,13699.21,
+MOV-00620,VLT-0620,Hire,2022-06-28,Contratação,,Technology,,QA,,Senior,,10821.32
+MOV-00086,VLT-0086,Hire,2023-11-07,Contratação,,Sales,,Key Account,,Senior,,9843.44
+MOV-00187,VLT-0187,Hire,2021-12-25,Contratação,,Product,,Product Designer,,Mid,,8797.39
+MOV-00019,VLT-0019,Hire,2020-09-12,Contratação,,People & Culture,,Analista de T&D,,Junior,,3256.42
+MOV-00782,VLT-0364,Salary Increase,2025-07-28,Reajuste anual,Technology,Technology,Arquiteto de Software,Arquiteto de Software,Mid,Mid,6663.81,7998.09
+MOV-00594,VLT-0594,Hire,2021-07-30,Contratação,,People & Culture,,Analista de RH,,Specialist,,11162.03
+MOV-00773,VLT-0588,Salary Increase,2025-01-14,Promoção de cargo,Technology,Technology,Analista de Dados,Analista de Dados,Senior,Senior,10125.0,11131.68
+MOV-00851,VLT-0379,Promotion,2025-08-22,Reestruturação,Sales,Sales,Executivo de Vendas,Executivo de Vendas,Mid,Senior,6333.58,7709.1
+MOV-00513,VLT-0513,Hire,2018-09-14,Contratação,,Operations,,Analista Financeiro,,Mid,,6668.04
+MOV-00053,VLT-0053,Hire,2020-03-26,Contratação,,Sales,,SDR,,Mid,,6333.66
+MOV-00048,VLT-0048,Hire,2018-12-26,Contratação,,Sales,,Gerente Comercial,,Mid,,6640.47
+MOV-00602,VLT-0602,Hire,2019-05-15,Contratação,,Operations,,Coordenador de Projetos,,Specialist,,11556.07
+MOV-00060,VLT-0060,Hire,2020-01-20,Contratação,,Operations,,Controller,,Senior,,10621.12
+MOV-00364,VLT-0364,Hire,2025-06-06,Contratação,,Technology,,Arquiteto de Software,,Mid,,6663.81
+MOV-00387,VLT-0387,Hire,2022-12-27,Contratação,,Sales,,SDR,,Mid,,6413.57
+MOV-00797,VLT-0594,Promotion,2023-11-03,Mérito,People & Culture,People & Culture,Analista de RH,Analista de RH,Specialist,Gestor,11162.03,12801.06
+MOV-00764,VLT-0053,Salary Increase,2024-01-03,Reajuste anual,Sales,Sales,SDR,SDR,Mid,Mid,6333.66,7244.94
+MOV-00929,VLT-0217,Salary Increase,2025-10-24,Reajuste anual,Product,Product,Product Analyst,Product Analyst,Mid,Mid,8042.0,9156.79
+MOV-00903,VLT-0360,Promotion,2025-04-30,Reestruturação,Operations,Operations,Coordenador de Projetos,Coordenador de Projetos,Mid,Senior,6259.97,7827.24
+MOV-00652,VLT-0006,Termination,2023-06-05,Involuntary Termination,Sales,,Key Account,,Junior,,4149.82,
+MOV-00944,VLT-0094,Salary Increase,2025-10-30,Equiparação salarial,Product,Product,Product Designer,Product Designer,Mid,Mid,9354.93,11547.68
+MOV-00943,VLT-0283,Salary Increase,2021-08-29,Reajuste anual,People & Culture,People & Culture,Analista de RH,Analista de RH,Mid,Mid,6276.35,7082.2
+MOV-00296,VLT-0296,Hire,10/11/2019,Contratação,,Operations,,Coordenador de Projetos,,Mid,,7319.38
+MOV-00675,VLT-0150,Termination,2025-09-23,Voluntary Resignation,Operations,,Controller,,Mid,,7417.86,
+MOV-00848,VLT-0271,Promotion,2024-09-02,Mérito,Sales,Sales,SDR,SDR,Junior,Mid,3908.05,4266.22
+MOV-00447,VLT-0447,Hire,2024-01-26,Contratação,,Product,,Product Designer,,Senior,,11598.02
+MOV-00147,VLT-0147,Hire,2018-12-19,Contratação,,Technology,,Analista de Dados,,Senior,,9820.25
+MOV-00462,VLT-0462,Hire,2021-09-03,Contratação,,Technology,,Arquiteto de Software,,Junior,,4622.11
+MOV-00036,VLT-0036,Hire,2020-12-24,Contratação,,Sales,,Executivo de Vendas,,Specialist,,10335.76
+MOV-00706,VLT-0370,Termination,2025-08-06,Terminated for Cause,Sales,,SDR,,Senior,,9583.62,
+MOV-00543,VLT-0543,Hire,2024-07-02,Contratação,,Operations,,Tesoureiro,,Junior,,3843.3
+MOV-00351,VLT-0351,Hire,2020-07-23,Contratação,,Product,,Product Designer,,Mid,,9499.86
+MOV-00984,VLT-0054,Termination,2025-04-29,Terminated for Cause,People & Culture,,Analista de RH,,Senior,,9641.01,
+MOV-00604,VLT-0604,Hire,2018-05-03,Contratação,,Operations,,Analista Financeiro,,Mid,,6849.18
+MOV-00378,VLT-0378,Hire,2022-09-11,Contratação,,Product,,Product Designer,,Senior,,11628.93
+MOV-00043,VLT-0043,Hire,2021-05-20,Contratação,,People & Culture,,Analista de T&D,,Mid,,"6146,68"
+MOV-00625,VLT-0625,Hire,2023-04-09,Contratação,,Sales,,Gerente Comercial,,Mid,,6687.26
+MOV-00065,VLT-0065,Hire,2019-04-17,Contratação,,Operations,,Analista de Processos,,Mid,,6362.95
+MOV-00611,VLT-0611,Hire,2025-01-08,Contratação,,Operations,,Coordenador de Projetos,,Mid,,7194.1
+MOV-00089,VLT-0089,Hire,27/05/2023,Contratação,,People & Culture,,Recrutador,,Senior,,9003.65
+MOV-00657,VLT-0040,Termination,2025-01-17,Terminated for Cause,Technology,,QA,,Mid,,8221.83,
+MOV-00897,VLT-0365,Transfer,2024-05-13,Necessidade da área,Sales,Product,Gerente Comercial,Product Manager,Senior,Senior,9752.75,9752.75
+MOV-00198,VLT-0198,Hire,2018-05-25,Contratação,,Technology,,DevOps,,Junior,,4126.1
+MOV-00590,VLT-0590,Hire,2024-05-06,Contratação,,Operations,,Analista Financeiro,,Senior,,10023.46
+MOV-00973,VLT-0434,Transfer,2024-09-24,Necessidade da área,Sales,Operations,Key Account,Analista Financeiro,Senior,Senior,9334.41,9334.41
+MOV-00208,VLT-0208,Hire,2022-10-03,Contratação,,People & Culture,,HRBP,,Junior,,3299.87
+MOV-00591,VLT-0591,Hire,2022-12-19,Contratação,,Sales,,Executivo de Vendas,,Mid,,6051.98
+MOV-00910,VLT-0122,Salary Increase,2024-01-25,Promoção de cargo,People & Culture,People & Culture,Recrutador,Recrutador,Senior,Senior,9330.36,9977.47
+MOV-00304,VLT-0304,Hire,2020-10-21,Contratação,,Operations,,Coordenador de Projetos,,Junior,,4506.4
+MOV-00515,VLT-0515,Hire,2021-09-14,Contratação,,Operations,,Coordenador de Projetos,,Senior,,10469.81
+MOV-00446,VLT-0446,Hire,2021-06-18,Contratação,,Operations,,Tesoureiro,,Mid,,6596.96
+MOV-00815,VLT-0065,Salary Increase,2024-03-05,Mérito,Operations,Operations,Analista de Processos,Analista de Processos,Mid,Mid,6362.95,7228.23
+MOV-00649,VLT-0649,Hire,2021-03-09,Contratação,,Product,,Product Analyst,,Senior,,13699.21
+MOV-00718,VLT-0420,Termination,2024-05-22,Voluntary Resignation,People & Culture,,Analista de T&D,,Junior,,3858.74,
+MOV-00138,VLT-0138,Hire,2022-09-10,Contratação,,Operations,,Controller,,Mid,,7558.1
+MOV-00094,VLT-0094,Hire,05/01/2025,Contratação,,Product,,Product Designer,,Mid,,"9354,93"
+MOV-00314,VLT-0314,Hire,2022-10-02,Contratação,,Operations,,Analista de Operações,,Specialist,,12192.57
+MOV-00200,VLT-0200,Hire,2019-01-26,Contratação,,Operations,,Controller,,Specialist,,12687.02
+MOV-00457,VLT-0457,Hire,2022-02-18,Contratação,,Sales,,SDR,,Mid,,5813.08
+MOV-00183,VLT-0183,Hire,2023-08-13,Contratação,,Operations,,Tesoureiro,,Junior,,4015.11
+MOV-00744,VLT-0574,Termination,2024-11-09,Terminated for Cause,Technology,,Analista de Dados,,Specialist,,14338.87,
+MOV-00398,VLT-0398,Hire,2024-09-03,Contratação,,Sales,,Executivo de Vendas,,Senior,,8244.01
+MOV-00878,VLT-0126,Promotion,2021-10-19,Expansão de time,Operations,Operations,Analista de Processos,Analista de Processos,Mid,Senior,7070.11,8175.18
+MOV-00214,VLT-0214,Hire,12/02/2024,Contratação,,Sales,,Key Account,,Mid,,6391.23
+MOV-00785,VLT-0124,Salary Increase,2021-03-27,Promoção de cargo,Technology,Technology,Arquiteto de Software,Arquiteto de Software,Junior,Junior,4186.91,5261.27
+MOV-00795,VLT-0303,Promotion,2021-07-22,Reestruturação,Technology,Technology,QA,QA,Mid,Senior,6636.4,8046.91
+MOV-00498,VLT-0498,Hire,2022-05-25,Contratação,,Product,,Product Analyst,,Mid,,8351.07
+MOV-00696,VLT-0298,Termination,2024-06-15,Involuntary Termination,Technology,,DevOps,,Mid,,7684.77,
+MOV-00724,VLT-0471,Termination,2023-08-15,Terminated for Cause,Operations,,Analista Financeiro,,Mid,,7188.07,
+MOV-00936,VLT-0518,Salary Increase,2023-07-21,Promoção de cargo,Product,Product,Product Manager,Product Manager,Mid,Mid,8302.11,8894.78
+MOV-00045,VLT-0045,Hire,2021-06-30,Contratação,,Operations,,Analista de Processos,,Specialist,,10268.81
+MOV-00549,VLT-0549,Hire,2022-04-13,Contratação,,Operations,,Analista de Processos,,Senior,,8676.24
+MOV-00789,VLT-0273,Transfer,2023-04-24,Reestruturação organizacional,Sales,Legal,Key Account,Paralegal,Junior,Junior,4296.34,4296.34
+MOV-00533,VLT-0533,Hire,2019-05-02,Contratação,,People & Culture,,HRBP,,Junior,,3318.47
+MOV-00737,VLT-0541,Termination,2025-09-25,Voluntary Resignation,People & Culture,,Analista de RH,,Specialist,,9852.2,
+MOV-00031,VLT-0031,Hire,2023-07-17,Contratação,,Operations,,Analista de Operações,,Senior,,9132.52
+MOV-00206,VLT-0206,Hire,2021-05-27,Contratação,,Operations,,Analista Financeiro,,Mid,,7463.06
+MOV-00950,VLT-0143,Salary Increase,2022-03-16,Mérito,Operations,Operations,Analista de Processos,Analista de Processos,Specialist,Specialist,11157.49,12609.21
+MOV-00761,VLT-0634,Termination,2021-03-20,Terminated for Cause,Operations,,Analista de Processos,,Mid,,6892.54,

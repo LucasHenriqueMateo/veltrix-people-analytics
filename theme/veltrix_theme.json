@@ -1,0 +1,16 @@
+{
+  "name": "Veltrix Group - People Analytics",
+  "dataColors": [
+    "#1B4332",
+    "#52796F",
+    "#84A98C",
+    "#CAD2C5",
+    "#354F52",
+    "#B08968",
+    "#2C2C2A",
+    "#5F5E5A"
+  ],
+  "background": "#F4F1EA",
+  "foreground": "#1B4332",
+  "tableAccent": "#1B4332"
+}
